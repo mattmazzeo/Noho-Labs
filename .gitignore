@@ -22,3 +22,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# YouTube Clipper skill outputs and config
+youtube-clips/
+.claude/skills/youtube-clipper/.env
+__pycache__/
+*.pyc
