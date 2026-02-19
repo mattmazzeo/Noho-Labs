@@ -1,5 +1,5 @@
 ---
-globs:
+paths:
   - "src/components/**/*.tsx"
 ---
 # React Component Rules

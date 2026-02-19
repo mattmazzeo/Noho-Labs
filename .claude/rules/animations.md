@@ -1,5 +1,5 @@
 ---
-globs:
+paths:
   - "src/lib/animations.ts"
   - "src/components/**/*.tsx"
 ---

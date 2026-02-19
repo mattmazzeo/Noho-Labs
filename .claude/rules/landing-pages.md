@@ -1,5 +1,5 @@
 ---
-globs:
+paths:
   - "src/components/landing-pages/**/*.tsx"
 ---
 # Landing Page Variation Rules
