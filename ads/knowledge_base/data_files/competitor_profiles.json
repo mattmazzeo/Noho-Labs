@@ -1,0 +1,468 @@
+{
+  "results": [
+    {
+      "input": "Rho Nutrition - rhonutrition.com",
+      "output": {
+        "category": "Supplement DTC",
+        "company_name": "Rho Nutrition",
+        "funding_revenue": "Estimated annual revenue of $1.6M - $5M; no public funding raised yet",
+        "key_differentiator": "Doctor-formulated, third-party tested liquid vitamin therapy utilizing a next-generation Liposomal Delivery System for superior absorption and bioavailability.",
+        "price_range": "$39.95 - $335.59",
+        "pricing_model": "Subscription (save 10-25%) + one-time purchase",
+        "social_proof": "500,000+ customers, 20K+ 5-star reviews",
+        "target_audience": "Health-conscious individuals, biohackers, athletes, and those seeking longevity, cellular health, and high performance",
+        "top_products_with_prices": "Liposomal NAD+ $55.95; Liposomal Glutathione $52.95; Liposomal Curcumin + Resveratrol $39.95; Liposomal Collagen Peptides $45.99; Elite Performance Stack $175.32",
+        "website": "https://rhonutrition.com"
+      },
+      "error": ""
+    },
+    {
+      "input": "Cymbiotika - cymbiotika.com",
+      "output": {
+        "category": "Supplement DTC",
+        "company_name": "Cymbiotika",
+        "funding_revenue": "$150M+ in revenue, raised $25M seed round, $30M in debt financing",
+        "key_differentiator": "Clean, science-backed supplements utilizing advanced liposomal delivery systems for maximum bioavailability, with a commitment to transparency and zero artificial fillers or GMOs.",
+        "price_range": "$22.40 - $88.00",
+        "pricing_model": "Subscription (save 30%) + one-time purchase",
+        "social_proof": "60K+ subscribers, 5,800+ reviews on Magnesium Complex, 6,400+ reviews on Glutathione",
+        "target_audience": "Health-conscious individuals, biohackers, and wellness enthusiasts seeking premium, highly bioavailable, and clean supplements.",
+        "top_products_with_prices": "Liposomal NAD+ $77.00; Shilajit Liquid Complex $66.00; Irish Sea Moss $65.00; Liquid Colostrum $88.00; Liposomal Magnesium Complex $68.00",
+        "website": "https://cymbiotika.com"
+      },
+      "error": ""
+    },
+    {
+      "input": "Hims - hims.com (focus on peptide/GLP-1/weight loss products)",
+      "output": {
+        "category": "Telehealth",
+        "company_name": "Hims",
+        "funding_revenue": "$2.35 billion revenue in 2025",
+        "key_differentiator": "Provides accessible, personalized telehealth care with a wide range of GLP-1 options (both oral and injectable) and transparent subscription pricing.",
+        "price_range": "$149.00 - $1,899.00",
+        "pricing_model": "Subscription ($39 first month, then $149/month membership) + medication cost",
+        "social_proof": "Nearly 2.6 million subscribers as of Q1 2026, 8,557 reviews on Trustpilot",
+        "target_audience": "Health-conscious men, predominantly aged 25-45, seeking convenient access to stigmatized health issues and weight loss solutions",
+        "top_products_with_prices": "Wegovy Pill $149.00; Ozempic Pill $149.00; Wegovy Pen $199.00; Zepbound Vial $299.00; Mounjaro $1,899.00",
+        "website": "https://www.hims.com"
+      },
+      "error": ""
+    },
+    {
+      "input": "Ro - ro.co (focus on weight loss/GLP-1 products)",
+      "output": {
+        "category": "Telehealth",
+        "company_name": "Ro",
+        "funding_revenue": "$1.0B total funding, $598M annualized revenue in 2024, valued at $7.0B",
+        "key_differentiator": "Vertically integrated telehealth platform combining online doctor visits, insurance concierge, and direct-to-door pharmacy fulfillment with a focus on longitudinal care and affordable cash-pay options for GLP-1s.",
+        "price_range": "$149.00 - $1100.00",
+        "pricing_model": "Membership subscription ($145/mo or $74/mo prepaid annually) + separate medication cost",
+        "social_proof": "3,792+ reviews on Trustpilot, 1,243+ members surveyed on GLP-1s, thousands of members and counting",
+        "target_audience": "Men and women seeking convenient, accessible healthcare and weight loss solutions, particularly those looking for GLP-1 medications with or without insurance.",
+        "top_products_with_prices": "Wegovy pill $149.00; Foundayo pill $149.00; Zepbound KwikPen $299.00; Wegovy pen $199.00; Ozempic $900.00",
+        "website": "https://ro.co"
+      },
+      "error": ""
+    },
+    {
+      "input": "AgelessRx - agelessrx.com",
+      "output": {
+        "category": "Telehealth",
+        "company_name": "AgelessRx",
+        "funding_revenue": "Not publicly available",
+        "key_differentiator": "AgelessRx is a 100% online longevity telehealth platform that provides science-backed, expert-led medical protocols and prescription treatments (like NAD+, Metformin, and LDN) aimed at delaying age-related decline and improving healthspan.",
+        "price_range": "$125.00 - $499.00",
+        "pricing_model": "Subscription + one-time purchase",
+        "social_proof": "200K+ community members, 5,200+ participants in clinical studies, 7,084 surveyed customers with 82.7% reporting improvements, 4.7/5.0 support rating",
+        "target_audience": "Health-conscious individuals, biohackers, and aging adults seeking preventative healthcare, longevity, weight management, and improved healthspan",
+        "top_products_with_prices": "Wegovy® $199.00; Zepbound® $349.00; NAD+ Nasal Spray $125.00; NAD+ Injections $235.00; Low Dose Naltrexone (LDN) $175.00",
+        "website": "https://agelessrx.com"
+      },
+      "error": ""
+    },
+    {
+      "input": "Defy Medical - defymedical.com",
+      "output": {
+        "category": "Telehealth",
+        "company_name": "Defy Medical",
+        "funding_revenue": "$6.2M annual revenue, $350K funding",
+        "key_differentiator": "Comprehensive lab-first, physician-led approach offering highly individualized hormone and peptide protocols without subscriptions or contracts.",
+        "price_range": "$80.00 - $546.00",
+        "pricing_model": "Pay-as-you-go (no subscriptions or contracts) with separate fees for consultations ($150-$299), labs ($59-$350), and medications.",
+        "social_proof": "3,805 reviews on Trustpilot (4.9 stars)",
+        "target_audience": "Men and women seeking hormone optimization, peptide therapy, weight loss, and integrative wellness treatments.",
+        "top_products_with_prices": "Testosterone Replacement Therapy (TRT) ~$129-$199/mo; Bioidentical Hormone Replacement Therapy (BHRT) ~$150-$200/mo; Semaglutide (Weight Loss) $80-$350/vial; Peptides (BPC-157, CJC-1295, etc.) ~$200-$500/mo",
+        "website": "https://www.defymedical.com"
+      },
+      "error": ""
+    },
+    {
+      "input": "Kind Patches - kindpatches.com",
+      "output": {
+        "category": "Supplement DTC",
+        "company_name": "Kind Patches",
+        "funding_revenue": "$5.6M–$10.1M est. monthly revenue",
+        "key_differentiator": "Natural beauty and health patches with function-focused formulas that are dermatologically tested, skin-friendly, and deliver targeted benefits throughout the day.",
+        "price_range": "$15.00 - $30.00",
+        "pricing_model": "One-time purchase + Subscription (Subscribe \u0026 Save) + Bundles (Buy 2, Get 1 Free)",
+        "social_proof": "Over 4 Million Happy Customers; 17,522+ reviews on Trustpilot; 2,723 reviews on Berberine Patches (4.7 stars)",
+        "target_audience": "Health-conscious individuals seeking convenient, natural, and targeted wellness solutions for energy, sleep, metabolism, and beauty.",
+        "top_products_with_prices": "Berberine Patches (Upgraded GLP-1) $15.00; Mood+ Patches (Formerly Dopamine) $15.00; Unpuff Patches $15.00; NAD+ Patches $15.00; Dream Patches - Magnesium $15.00",
+        "website": "https://kindpatches.com"
+      },
+      "error": ""
+    },
+    {
+      "input": "Magnali Health - magnali.com",
+      "output": {
+        "category": "Supplement DTC",
+        "company_name": "Magnali Health",
+        "funding_revenue": "Not publicly available",
+        "key_differentiator": "Singapore-based biotech approach targeting biological aging at its core, replacing over 10 supplements with clean, science-backed ingredients that hit all 9 root processes of aging.",
+        "price_range": "$34.99 - $699.99",
+        "pricing_model": "One-time purchase (with discounted sale prices)",
+        "social_proof": "Not publicly available (0 reviews on Facebook, 2037 likes)",
+        "target_audience": "Individuals seeking longevity, cellular renewal, anti-aging solutions, and comprehensive daily health support (focus, energy, mood, gut health, immunity).",
+        "top_products_with_prices": "Magnali Fuel | Longevity Daily Blend $139.99; Magnali Longevity Protocol | Complete Longevity System $499.99; Magnali Longevity Lifestyle Blueprint $2.00; Magnali X | Cellular Aging Formula $199.99",
+        "website": "https://magnali.com"
+      },
+      "error": ""
+    },
+    {
+      "input": "Swiss Chems - swisschems.is",
+      "output": {
+        "category": "Research Supplier",
+        "company_name": "Swiss Chems",
+        "funding_revenue": "\u003c$5 Million",
+        "key_differentiator": "Offers the largest selection of research compounds worldwide with over 99% purity guaranteed through third-party HPLC testing, and focuses on being the first to introduce the latest research compounds.",
+        "price_range": "$17.95 - $369.99",
+        "pricing_model": "One-time purchase with wholesale pricing options",
+        "social_proof": "14 reviews on Trustpilot (TrustScore 2 out of 5); mixed reviews on Reddit; 85% of users stay up-to-date with their newsletter",
+        "target_audience": "Laboratories and researchers looking for advanced solutions, top-grade materials, and novel compounds for laboratory developmental research.",
+        "top_products_with_prices": "BPC-157 (0.5mg/capsule) $85.95; 5-Amino-1MQ (50mg/capsule) $119.99; RAD-140 (Testolone) $89.95; GW-501516 (Cardarine) $69.95; MK-677 (Ibutamoren) $69.95",
+        "website": "https://swisschems.is"
+      },
+      "error": ""
+    },
+    {
+      "input": "Paradigm Peptides - paradigmpeptides.com",
+      "output": {
+        "category": "Research Supplier",
+        "company_name": "Paradigm Peptides",
+        "funding_revenue": "Not publicly available",
+        "key_differentiator": "Paradigm Peptides was known for its wide product selection of SARMs, peptides, and nootropics, but the company permanently shut down after its founders pled guilty to federal charges for selling products containing undeclared testosterone.",
+        "price_range": "Not publicly available",
+        "pricing_model": "Not publicly available",
+        "social_proof": "Previously had a 4.7-star rating on Trustpilot before shutting down due to federal charges.",
+        "target_audience": "Private researchers, scientific institutions, and individuals seeking SARMs, peptides, and nootropics for research purposes.",
+        "top_products_with_prices": "Not publicly available",
+        "website": "https://paradigmpeptides.com"
+      },
+      "error": ""
+    },
+    {
+      "input": "Peptide Sciences - peptidesciences.com",
+      "output": {
+        "category": "Research Supplier",
+        "company_name": "Peptide Sciences",
+        "funding_revenue": "Revenue grew from $8.7M in 2020 to $105.4M in 2024; acquired in a $320M LBO with $160M debt financing",
+        "key_differentiator": "USA-manufactured research peptides with 99%+ purity, internal HPLC/mass spectrometry testing, and fast same-day domestic shipping.",
+        "price_range": "$55.00 - $300.00",
+        "pricing_model": "One-time purchase with bulk 'Bundle \u0026 Save' discounts (15% off 20-vial bundles)",
+        "social_proof": "Average satisfaction rating of 4.5 out of 5 across 12 reports on Finnrick Analytics; mixed-to-negative sentiment on public review platforms regarding customer service.",
+        "target_audience": "Independent researchers, laboratories, and individuals seeking research-grade peptides for laboratory use only (not for human consumption).",
+        "top_products_with_prices": "BPC-157 5mg $59.50; TB-500 5mg $85.00; PT-141 10mg $55.00; AOD-9604 6mg $65.00; NAD+ 750mg $300.00",
+        "website": "https://www.peptidesciences.com"
+      },
+      "error": ""
+    },
+    {
+      "input": "Core Peptides - corepeptides.com",
+      "output": {
+        "category": "Research Supplier",
+        "company_name": "Core Peptides",
+        "funding_revenue": "Not publicly available",
+        "key_differentiator": "Highest quality peptides and peptide blends in the research industry, synthesized and lyophilized in the US with purity levels exceeding 99%+, manufactured locally against the highest standards for synthesis.",
+        "price_range": "$20.00 - $300.00",
+        "pricing_model": "One-time purchase",
+        "social_proof": "4.7-star rating on Trustpilot",
+        "target_audience": "Laboratories, researchers, and academic institutions within the United States",
+        "top_products_with_prices": "BPC-157 $52.00 - $97.00; AOD 9604 $41.00; GHK-Cu $197.00; TB-500 $78.00 - $140.00; CJC-1295 $41.00 - $87.00",
+        "website": "https://corepeptides.com"
+      },
+      "error": ""
+    },
+    {
+      "input": "Limitless Life Nootropics - limitlesslifenootropics.com",
+      "output": {
+        "category": "Research Supplier",
+        "company_name": "Limitless Life Nootropics",
+        "funding_revenue": "Not publicly available (estimated \u003c$5 Million revenue)",
+        "key_differentiator": "Offers 3rd-party tested, USA-manufactured research peptides with 99% purity, HPLC/LC-MS testing, and complete certificates of analysis for every batch.",
+        "price_range": "$6.99 - $274.99",
+        "pricing_model": "One-time purchase",
+        "social_proof": "155 reviews on Trustpilot (3.5/5 stars), BBB Accredited with an A rating",
+        "target_audience": "Scientific researchers, laboratories, and biohackers seeking high-purity, research-grade peptides and nootropics for in vitro applications.",
+        "top_products_with_prices": "Bromantane Powder $71.99; MK-777 (Acetamoren) Powder $59.99; Thymosin Beta 4 (Fragment 1-4) (60 Capsules) $139.99; BPC-157 Acetate + TB-500 Fragment 17-23 Blend Spray $169.99; SLU-PP-332 $89.99",
+        "website": "https://limitlesslifenootropics.com"
+      },
+      "error": ""
+    },
+    {
+      "input": "Amino Asylum - aminoasylum.shop",
+      "output": {
+        "category": "Research Supplier",
+        "company_name": "Amino Asylum",
+        "funding_revenue": "Not publicly available",
+        "key_differentiator": "Third-party tested research compounds with publicly available Certificates of Analysis (COAs) and transparent operations under new ownership.",
+        "price_range": "$10.00 - $130.00",
+        "pricing_model": "One-time purchase",
+        "social_proof": "Not publicly available",
+        "target_audience": "Researchers and professionals seeking high-quality research compounds for laboratory use only.",
+        "top_products_with_prices": "Acetyl D-Glucosamine $29.99; Adex $29.99; Albuterol $29.99; AOD-9604 Spray $79.99; Aromasin $29.99",
+        "website": "https://aminoasylumofficial.com"
+      },
+      "error": ""
+    },
+    {
+      "input": "Tailor Made Compounding - tailormadecompounding.com",
+      "output": {
+        "category": "Compounding Pharmacy",
+        "company_name": "Tailor Made Compounding",
+        "funding_revenue": "Revenue $10.2 million, Funding $350,000",
+        "key_differentiator": "They are a 503A compounding pharmacy accredited by NABP, offering custom wellness solutions with in-house HPLC testing for potency and purity, and providing a wide range of compounded medications including peptides, HRT, and IV therapies.",
+        "price_range": "$100.00 - $400.00",
+        "pricing_model": "Cash-based pharmacy (no insurance accepted) where patients pay for prescriptions called in by their doctors, often including professional/office visit fees.",
+        "social_proof": "Accredited by the National Association of Boards of Pharmacy (NABP) and LegitScript approved, with 14 reviews on Glassdoor and 30 reviews on Indeed.",
+        "target_audience": "Patients seeking custom wellness solutions for men's health, women's health, weight management, and anti-aging, as well as healthcare providers and clinics looking for a reliable compounding pharmacy partner.",
+        "top_products_with_prices": "Melanotan II $400.00; Tesamorelin (price not visible); Semaglutide/Cyanocobalamin (price not visible); Glutathione (price not visible); NAD+ (price not visible)",
+        "website": "https://tailormadecompounding.com"
+      },
+      "error": ""
+    },
+    {
+      "input": "Empower Pharmacy - empowerpharmacy.com",
+      "output": {
+        "category": "Compounding Pharmacy",
+        "company_name": "Empower Pharmacy",
+        "funding_revenue": "$50M total funding, estimated $400M annual revenue in 2024",
+        "key_differentiator": "The nation's largest 503A compounding pharmacy and 503B outsourcing facility, offering a broad formulary of over 400 compounded products with nationwide licensure and automated manufacturing scale.",
+        "price_range": "$150.00 - $561.29",
+        "pricing_model": "One-time purchase (often via telehealth consultation or provider prescription)",
+        "social_proof": "Fills 15,000 prescriptions daily, 39 reviews on Trustpilot (1.9 stars)",
+        "target_audience": "Patients seeking personalized compounded medications, including weight management (GLP-1s), longevity (NAD+, Glutathione), and hormone replacement therapy, as well as healthcare providers and clinics.",
+        "top_products_with_prices": "Tirzepatide $150.00 - $561.29; NAD+ Injection; Glutathione Injection; Testosterone Cypionate Injection; Sermorelin Acetate Injection",
+        "website": "https://www.empowerpharmacy.com"
+      },
+      "error": ""
+    },
+    {
+      "input": "Olympia Pharmacy - olympiapharmacy.com",
+      "output": {
+        "category": "Compounding Pharmacy",
+        "company_name": "Olympia Pharmacy",
+        "funding_revenue": "$39.4 Million revenue (estimated)",
+        "key_differentiator": "FDA-registered 503B outsourcing facility and 503A compounding pharmacy offering nationwide overnight shipping, discreet packaging, and pharmacist consulting for a wide range of wellness, longevity, and specialized medications.",
+        "price_range": "$5.00 - $899.00",
+        "pricing_model": "One-time purchase (bulk supply discounts available)",
+        "social_proof": "4.8 stars on Google (48 reviews), 4 stars on Trustpilot (31 reviews)",
+        "target_audience": "Patients seeking wellness, longevity, weight loss, and sexual health treatments, as well as healthcare providers and independent pharmacies needing reliable compounded medications.",
+        "top_products_with_prices": "Semaglutide (High Dose) $419.00; Tirzepatide (High Dose) $899.00; Sermorelin $199.00; Lipo-Mino-Mix $85.00; Trimix Essentials $145.00",
+        "website": "https://www.olympiapharmacy.com"
+      },
+      "error": ""
+    },
+    {
+      "input": "Hallandale Pharmacy - hallandalepharmacy.com",
+      "output": {
+        "category": "Compounding Pharmacy",
+        "company_name": "Hallandale Pharmacy",
+        "funding_revenue": "Estimated annual revenue is $15M - $22.9M",
+        "key_differentiator": "Hallandale Pharmacy is a 503A compounding pharmacy that offers personalized, custom-compounded medications with fast turnaround times and competitive pricing, particularly specializing in GLP-1s, hormone replacement, and peptide therapies.",
+        "price_range": "$0.50 - $390.00",
+        "pricing_model": "Product purchase through partner telehealth providers and clinics (often includes consultation fees from partners)",
+        "social_proof": "Mixed reviews with a 2.42/5 BBB rating based on 12 reviews, and a 1.9/5 rating on Glassdoor; frequently discussed on Reddit for GLP-1 efficacy.",
+        "target_audience": "Patients seeking affordable, custom-compounded medications for weight loss (GLP-1s), hormone replacement, and wellness, as well as telehealth providers and clinics needing a reliable 503A compounding partner.",
+        "top_products_with_prices": "Semaglutide (1mL vial) $230.00 - $290.00; Tirzepatide (5mL vial) $350.00 - $390.00; Testosterone Cypionate (Grape Seed Oil) 1 mL $18.00; Anastrozole 0.125 mg Capsule $0.50; T-Balance (Testosterone Cypionate / Enanthate / Propionate) 5 mL $28.00",
+        "website": "http://hallandalerx.com"
+      },
+      "error": ""
+    },
+    {
+      "input": "Evolve Telemed - evolvetelemed.com",
+      "output": {
+        "category": "Telehealth",
+        "company_name": "Evolve Telemed",
+        "funding_revenue": "Not publicly available",
+        "key_differentiator": "Evolve Telemed provides personalized, concierge-level telemedicine care with board-certified providers, focusing on bioidentical hormone replacement therapy (BHRT) and peptide therapies for men, women, and couples.",
+        "price_range": "$400.00 - $1200.00",
+        "pricing_model": "Annual membership fee ($349/year) + separate costs for labs ($149.99) and monthly medications",
+        "social_proof": "4.5/5 stars on Trustpilot from 51 reviews",
+        "target_audience": "Men and women over 30 experiencing hormone imbalances, menopause, low testosterone, or seeking weight management and anti-aging solutions.",
+        "top_products_with_prices": "Compounded Semaglutide $400-$600; Compounded Tirzepatide $900-$1200",
+        "website": "https://evolvetelemed.com"
+      },
+      "error": ""
+    },
+    {
+      "input": "The Pause Life - thepauselife.com (Dr. Mary Claire Haver)",
+      "output": {
+        "category": "Supplement DTC",
+        "company_name": "The Pause Life",
+        "funding_revenue": "\u003c$5 Million (estimated revenue)",
+        "key_differentiator": "Doctor-formulated (by Dr. Mary Claire Haver, OBGYN and Certified Menopause Specialist), science-backed nutrition and supplements specifically designed for women in perimenopause and menopause, with third-party testing (NSF certified).",
+        "price_range": "$20.00 - $2,000.00",
+        "pricing_model": "One-time purchase, bundle savings, and consultation fees for clinic visits",
+        "social_proof": "7+ million followers across social media platforms (3.5M on Instagram, 2.3M on TikTok); thousands of product reviews (e.g., 866 reviews on Skin \u0026 Bone Collagen, 798 on Fiber GDX)",
+        "target_audience": "Women in perimenopause and menopause seeking science-backed education, symptom relief, and wellness support",
+        "top_products_with_prices": "Skin \u0026 Bone Collagen $70.00; MenoMulti $45.00; Omega-3 + Vitamin D3 \u0026 K2 $45.00; Fiber GDX $40.00; Creatine (Creavitalis®) $38.00",
+        "website": "https://thepauselife.com"
+      },
+      "error": ""
+    },
+    {
+      "input": "Seranova Beauty - seranovabeauty.com",
+      "output": {
+        "category": "Beauty/Device",
+        "company_name": "Seranova Beauty",
+        "funding_revenue": "Not publicly available",
+        "key_differentiator": "Seranova Beauty offers an at-home Micro Infusion System that combines a stamping mechanism to create micro-channels with scientifically proven anti-aging serums, providing a uniquely effective, dermatologist-backed alternative to expensive clinic procedures.",
+        "price_range": "$36.00 - $229.00",
+        "pricing_model": "One-time purchase + Subscription",
+        "social_proof": "500,000+ customers worldwide, 4,486 reviews on The Micro Infusion System (5 stars), 2,181 reviews on Trustpilot (Excellent rating)",
+        "target_audience": "Women seeking anti-aging solutions for fine lines, wrinkles, sagging skin, dark spots, and uneven skin tone, who want professional-grade results at home.",
+        "top_products_with_prices": "The Micro Infusion System™ $78.00; Deep Collagen Cream $39.00; Micro Infusion Patches $59.00; Collagen Mask $44.00; Micro Infusion All In One Bundle™ $229.00",
+        "website": "https://seranovabeauty.com"
+      },
+      "error": ""
+    },
+    {
+      "input": "System Labs - systemlabs.co",
+      "output": {
+        "category": "Telehealth",
+        "company_name": "System Labs",
+        "funding_revenue": "Not publicly available",
+        "key_differentiator": "American-sourced, clinician-led telehealth providing high-quality, third-party tested peptides from licensed U.S. pharmacies with ongoing medical supervision.",
+        "price_range": "$59.00 - $219.00",
+        "pricing_model": "Subscription (monthly supply) with discounted first month",
+        "social_proof": "Multiple 5-star verified customer reviews highlighting fast service, medical supervision, and noticeable results",
+        "target_audience": "Health-conscious adults seeking performance, recovery, longevity, and weight management optimization",
+        "top_products_with_prices": "NAD+ Injection $149/mo ($79 first mo); NAD+ Nasal Spray $119/mo ($59 first mo); Glutathione Injection $149/mo ($79 first mo); MIC+B12 $89/mo; Sermorelin Injection $219/mo ($109 first mo); Oral Compounded Sermorelin $159/mo ($79 first mo)",
+        "website": "https://systemlabs.com"
+      },
+      "error": ""
+    },
+    {
+      "input": "Blue Haven RX - bluehavenrx.com",
+      "output": {
+        "category": "Telehealth",
+        "company_name": "Blue Haven RX",
+        "funding_revenue": "Not publicly available",
+        "key_differentiator": "They offer a transparent, all-inclusive pricing model with no hidden fees, where the monthly cost remains the same regardless of the medication dose.",
+        "price_range": "$149.00 - $179.00",
+        "pricing_model": "Subscription (all-inclusive monthly fee covering doctor consultation, prescription, medication, and shipping)",
+        "social_proof": "39 reviews on Trustpilot with a 3.5 out of 5 TrustScore",
+        "target_audience": "Individuals seeking medical weight loss solutions, particularly those looking for affordable, transparently priced GLP-1 medications without insurance.",
+        "top_products_with_prices": "Compounded Semaglutide $149/month; Compounded Tirzepatide $179/month",
+        "website": "https://bluehavenrx.com"
+      },
+      "error": ""
+    },
+    {
+      "input": "TrimRx - trimrx.com",
+      "output": {
+        "category": "Telehealth",
+        "company_name": "TrimRx",
+        "funding_revenue": "Not publicly available",
+        "key_differentiator": "TrimRx offers medically-supervised weight loss treatment using FDA-registered GLP-1 medications with a 3-Month Results Guarantee for new patients and transparent, flat monthly pricing that remains steady even as doses change.",
+        "price_range": "$179.00 - $1579.00",
+        "pricing_model": "Subscription (flat monthly fee including consultation, medication, and delivery)",
+        "social_proof": "3,444 reviews on Trustpilot (3.2/5 stars)",
+        "target_audience": "Individuals seeking medically-supervised weight loss solutions, particularly those looking for accessible GLP-1 therapy without insurance or with high deductibles.",
+        "top_products_with_prices": "Compounded GLP-1 (Semaglutide) $179.00; Compounded GLP-1 + GIP (Tirzepatide) $259.00; Ozempic® $1149.00; Mounjaro® $1249.00; Zepbound® $1249.00; Wegovy® $1579.00",
+        "website": "https://trimrx.com"
+      },
+      "error": ""
+    },
+    {
+      "input": "Forester Nutrition - foresternutrition.com",
+      "output": {
+        "category": "Supplement DTC",
+        "company_name": "Forester Nutrition",
+        "funding_revenue": "Bootstrapped / Self-funded (founder-led to six-figure months, 84% revenue growth in 90 days)",
+        "key_differentiator": "Scientifically formulated, unique, high-strength supplements specifically designed for bone fracture, joint, tendon, and ligament recovery, featuring 3rd-party tested pharmaceutical-grade peptides with high bio-availability.",
+        "price_range": "$35.00 - $151.00",
+        "pricing_model": "One-time purchase",
+        "social_proof": "310 reviews, 4.6/5 stars rating on Shop app (178 reviews)",
+        "target_audience": "Athletes, biohackers, lifters, and recovery-focused individuals dealing with injuries, bone fractures, or chronic joint pain.",
+        "top_products_with_prices": "Wolverine Stack $151.00; BPC-157 Ultra $103.00; TB-500 $76.00; BoneFix Ultra $35.00; BoneFix Ultra and BPC-157 Ultra Bundle $117.00",
+        "website": "https://foresternutrition.com"
+      },
+      "error": ""
+    },
+    {
+      "input": "Simple Peptide - simplepeptide.com",
+      "output": {
+        "category": "Research Supplier",
+        "company_name": "Simple Peptide",
+        "funding_revenue": "Not publicly available",
+        "key_differentiator": "US-based laboratory following strict cGMP protocols, independent 3rd party testing for every batch, and same-day shipping via FedEx 2Day Air.",
+        "price_range": "$18.00 - $255.00",
+        "pricing_model": "One-time purchase with volume discounts (starting at 5+ units)",
+        "social_proof": "4.8/5 average satisfaction rating across 5 reports on Finnrick; 17 reviews on Yelp",
+        "target_audience": "Laboratory researchers and scientific professionals conducting in vitro and experimental studies",
+        "top_products_with_prices": "SLUBAM (BAM15 50MG \u0026 SLUPP332 250MCG) 60 Capsules $255.00; Orforglipron 6MG 90 Capsules $239.00; 5-Amino-1MQ Capsules $209.00; Glow X Recovery Dissolvable Strips $199.99; BPC-157 500MCG Capsules $170.00",
+        "website": "https://simplepeptide.com"
+      },
+      "error": ""
+    },
+    {
+      "input": "Certified-Pep - certified-global.com",
+      "output": {
+        "category": "Research Supplier",
+        "company_name": "Certified-Pep",
+        "funding_revenue": "Not publicly available",
+        "key_differentiator": "US-based manufacturing in a cGMP compliant facility in Texas, with independent 3rd party testing for every batch (verifying purity, endotoxins, heavy metals, and sterility), and batch-specific COAs provided.",
+        "price_range": "$64.00 - $220.00",
+        "pricing_model": "One-time purchase",
+        "social_proof": "1,289 reviews on Reviews.io with a 4.9 average rating",
+        "target_audience": "Laboratory professionals and researchers",
+        "top_products_with_prices": "R 10MG $120.00 - $150.00; R 30MG $180.00 - $220.00; T 30MG $140.00 - $160.00; S 10MG $110.00 - $146.00; GLOW 70MG $95.00 - $112.00",
+        "website": "https://certified-pep.com"
+      },
+      "error": ""
+    },
+    {
+      "input": "Prime Lab Peptides - primelabpeptides.com",
+      "output": {
+        "category": "Research Supplier",
+        "company_name": "Prime Lab Peptides",
+        "funding_revenue": "Not publicly available",
+        "key_differentiator": "They offer 99% pure, 3rd-party tested research peptides with same-day shipping and dedicated customer support.",
+        "price_range": "$50.00 - $290.00",
+        "pricing_model": "One-time purchase with bulk discounts available",
+        "social_proof": "4.9 star rating, 887 reviews on Trustpilot, 12+ years of combined experience, thousands of satisfied researchers",
+        "target_audience": "Laboratory researchers and scientists conducting in-vitro research and development",
+        "top_products_with_prices": "Tirzepatide - 30mg $170.00; Retatrutide - 24mg $195.00; Glow - 70mg $150.00; Tirzepatide - 10mg $100.00; GLP-1SG - 10mg $90.00",
+        "website": "https://primelabpeptides.com"
+      },
+      "error": ""
+    },
+    {
+      "input": "OpenLoop Health - openloophealth.com (B2B peptide infrastructure)",
+      "output": {
+        "category": "B2B Infrastructure",
+        "company_name": "OpenLoop Health",
+        "funding_revenue": "$48.5M raised (Series A)",
+        "key_differentiator": "End-to-end white-label telehealth infrastructure providing clinical staffing, nationwide payer coverage, and API-driven technology to scale digital health offerings.",
+        "price_range": "Not publicly available",
+        "pricing_model": "B2B custom pricing (Not publicly available)",
+        "social_proof": "3M+ patients annually, 20k clinicians in network, 1,191 reviews on Trustpilot (4.8 stars)",
+        "target_audience": "Digital health companies, hospitals, health systems, retailers, and employers looking to launch or scale telehealth services",
+        "top_products_with_prices": "Provider Staffing Not publicly available; Technology Platform Not publicly available; Payer Coverage + RCM Not publicly available; Licensing + Credentialing Not publicly available; Regulatory + Legal Not publicly available",
+        "website": "https://openloophealth.com"
+      },
+      "error": ""
+    }
+  ]
+}

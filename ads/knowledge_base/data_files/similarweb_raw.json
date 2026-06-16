@@ -1,0 +1,5145 @@
+{
+  "rhonutrition.com": {
+    "domain": "rhonutrition.com",
+    "visits": {
+      "meta": {
+        "request": {
+          "granularity": "Monthly",
+          "main_domain_only": false,
+          "mtd": false,
+          "show_verified": false,
+          "state": null,
+          "format": "json",
+          "domain": "rhonutrition.com",
+          "start_date": "2025-12-01",
+          "end_date": "2026-05-31",
+          "country": "world"
+        },
+        "status": "Success",
+        "last_updated": "2026-05-31",
+        "device": "Total"
+      },
+      "visits": [
+        {
+          "date": "2025-12-01",
+          "visits": 303656.09286896815
+        },
+        {
+          "date": "2026-01-01",
+          "visits": 274354.76516227506
+        },
+        {
+          "date": "2026-02-01",
+          "visits": 322868.0510635404
+        },
+        {
+          "date": "2026-03-01",
+          "visits": 413447.6001536746
+        },
+        {
+          "date": "2026-04-01",
+          "visits": 316376.1326768241
+        },
+        {
+          "date": "2026-05-01",
+          "visits": 360483.4970826537
+        }
+      ]
+    },
+    "rank": {
+      "meta": {
+        "request": {
+          "main_domain_only": false,
+          "show_verified": false,
+          "state": null,
+          "format": "json",
+          "domain": "rhonutrition.com",
+          "start_date": "2025-12-01",
+          "end_date": "2026-05-31",
+          "country": "world"
+        },
+        "status": "Success",
+        "last_updated": "2026-05-31"
+      },
+      "global_rank": [
+        {
+          "date": "2025-12",
+          "global_rank": 137222
+        },
+        {
+          "date": "2026-01",
+          "global_rank": 153109
+        },
+        {
+          "date": "2026-02",
+          "global_rank": 129484
+        },
+        {
+          "date": "2026-03",
+          "global_rank": 103287
+        },
+        {
+          "date": "2026-04",
+          "global_rank": 124030
+        },
+        {
+          "date": "2026-05",
+          "global_rank": 111628
+        }
+      ]
+    },
+    "bounce_rate": {
+      "meta": {
+        "request": {
+          "granularity": "Monthly",
+          "main_domain_only": false,
+          "mtd": false,
+          "show_verified": false,
+          "state": null,
+          "format": "json",
+          "domain": "rhonutrition.com",
+          "start_date": "2025-12-01",
+          "end_date": "2026-05-31",
+          "country": "world"
+        },
+        "status": "Success",
+        "last_updated": "2026-05-31"
+      },
+      "bounce_rate": [
+        {
+          "date": "2025-12-01",
+          "bounce_rate": 0.5193383715717608
+        },
+        {
+          "date": "2026-01-01",
+          "bounce_rate": 0.4399322707742743
+        },
+        {
+          "date": "2026-02-01",
+          "bounce_rate": 0.48720134180166125
+        },
+        {
+          "date": "2026-03-01",
+          "bounce_rate": 0.4518746498446683
+        },
+        {
+          "date": "2026-04-01",
+          "bounce_rate": 0.4420133104218858
+        },
+        {
+          "date": "2026-05-01",
+          "bounce_rate": 0.49092874168140677
+        }
+      ]
+    },
+    "traffic_sources_desktop": {
+      "meta": {
+        "request": {
+          "granularity": "Monthly",
+          "main_domain_only": false,
+          "mtd": false,
+          "show_verified": false,
+          "state": null,
+          "format": "json",
+          "domain": "rhonutrition.com",
+          "start_date": "2025-12-01",
+          "end_date": "2026-05-31",
+          "country": "world"
+        },
+        "status": "Success",
+        "last_updated": "2026-05-31"
+      },
+      "visits": {
+        "rhonutrition.com": [
+          {
+            "source_type": "Search",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 11217.301000000001,
+                "paid": 18378.912000000004
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 12930.219000000001,
+                "paid": 20074.777
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 17171.890999999996,
+                "paid": 15447.728000000001
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 17079.525,
+                "paid": 16892.179
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 17261.23,
+                "paid": 13050.771
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 17250.435,
+                "paid": 18694.801
+              }
+            ]
+          },
+          {
+            "source_type": "Social",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 9654.145999999999,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 11528.954999999998,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 11679.583999999999,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 11517.185999999998,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 9753.519999999999,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 11370.868000000002,
+                "paid": 0.0
+              }
+            ]
+          },
+          {
+            "source_type": "Mail",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 121.33200000000001,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 150.69399999999996,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 170.093,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 175.373,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 156.94699999999997,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 194.80000000000004,
+                "paid": 0.0
+              }
+            ]
+          },
+          {
+            "source_type": "Display Ads",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 0.0,
+                "paid": 762.8729999999999
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 0.0,
+                "paid": 782.8959999999998
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 0.0,
+                "paid": 776.2410000000001
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 0.0,
+                "paid": 796.8889999999999
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 0.0,
+                "paid": 751.77
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 0.0,
+                "paid": 910.906
+              }
+            ]
+          },
+          {
+            "source_type": "Direct",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 52065.34700000001,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 57052.119,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 56029.23599999999,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 57801.585,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 51525.54,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 63491.47899999999,
+                "paid": 0.0
+              }
+            ]
+          },
+          {
+            "source_type": "Referrals",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 4030.3300000000004,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 4827.404,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 5127.359,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 5559.059000000002,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 5016.426999999999,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 5474.389,
+                "paid": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "cymbiotika.com": {
+    "domain": "cymbiotika.com",
+    "visits": {
+      "meta": {
+        "request": {
+          "granularity": "Monthly",
+          "main_domain_only": false,
+          "mtd": false,
+          "show_verified": false,
+          "state": null,
+          "format": "json",
+          "domain": "cymbiotika.com",
+          "start_date": "2025-12-01",
+          "end_date": "2026-05-31",
+          "country": "world"
+        },
+        "status": "Success",
+        "last_updated": "2026-05-31",
+        "device": "Total"
+      },
+      "visits": [
+        {
+          "date": "2025-12-01",
+          "visits": 822187.6352706135
+        },
+        {
+          "date": "2026-01-01",
+          "visits": 968827.4282841778
+        },
+        {
+          "date": "2026-02-01",
+          "visits": 860900.3832854136
+        },
+        {
+          "date": "2026-03-01",
+          "visits": 1048235.6907569063
+        },
+        {
+          "date": "2026-04-01",
+          "visits": 848096.5327917633
+        },
+        {
+          "date": "2026-05-01",
+          "visits": 1005897.5590974089
+        }
+      ]
+    },
+    "rank": {
+      "meta": {
+        "request": {
+          "main_domain_only": false,
+          "show_verified": false,
+          "state": null,
+          "format": "json",
+          "domain": "cymbiotika.com",
+          "start_date": "2025-12-01",
+          "end_date": "2026-05-31",
+          "country": "world"
+        },
+        "status": "Success",
+        "last_updated": "2026-05-31"
+      },
+      "global_rank": [
+        {
+          "date": "2025-12",
+          "global_rank": 72253
+        },
+        {
+          "date": "2026-01",
+          "global_rank": 61232
+        },
+        {
+          "date": "2026-02",
+          "global_rank": 63799
+        },
+        {
+          "date": "2026-03",
+          "global_rank": 59424
+        },
+        {
+          "date": "2026-04",
+          "global_rank": 70208
+        },
+        {
+          "date": "2026-05",
+          "global_rank": 57650
+        }
+      ]
+    },
+    "bounce_rate": {
+      "meta": {
+        "request": {
+          "granularity": "Monthly",
+          "main_domain_only": false,
+          "mtd": false,
+          "show_verified": false,
+          "state": null,
+          "format": "json",
+          "domain": "cymbiotika.com",
+          "start_date": "2025-12-01",
+          "end_date": "2026-05-31",
+          "country": "world"
+        },
+        "status": "Success",
+        "last_updated": "2026-05-31"
+      },
+      "bounce_rate": [
+        {
+          "date": "2025-12-01",
+          "bounce_rate": 0.5430832070374246
+        },
+        {
+          "date": "2026-01-01",
+          "bounce_rate": 0.5269102200540334
+        },
+        {
+          "date": "2026-02-01",
+          "bounce_rate": 0.5762990847285471
+        },
+        {
+          "date": "2026-03-01",
+          "bounce_rate": 0.5503890192452732
+        },
+        {
+          "date": "2026-04-01",
+          "bounce_rate": 0.5502630444084333
+        },
+        {
+          "date": "2026-05-01",
+          "bounce_rate": 0.5102382381462747
+        }
+      ]
+    },
+    "traffic_sources_desktop": {
+      "meta": {
+        "request": {
+          "granularity": "Monthly",
+          "main_domain_only": false,
+          "mtd": false,
+          "show_verified": false,
+          "state": null,
+          "format": "json",
+          "domain": "cymbiotika.com",
+          "start_date": "2025-12-01",
+          "end_date": "2026-05-31",
+          "country": "world"
+        },
+        "status": "Success",
+        "last_updated": "2026-05-31"
+      },
+      "visits": {
+        "cymbiotika.com": [
+          {
+            "source_type": "Search",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 34082.925,
+                "paid": 15635.315000000002
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 48320.65800000001,
+                "paid": 15140.542
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 42532.94400000001,
+                "paid": 10384.495
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 57375.35499999999,
+                "paid": 20317.014000000003
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 48859.714,
+                "paid": 18321.941
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 53093.76700000001,
+                "paid": 19171.18
+              }
+            ]
+          },
+          {
+            "source_type": "Social",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 5312.589,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 6243.81,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 4938.351000000001,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 7181.672000000001,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 6703.264999999999,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 6890.809000000002,
+                "paid": 0.0
+              }
+            ]
+          },
+          {
+            "source_type": "Mail",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 240.03599999999994,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 300.87999999999994,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 234.57299999999998,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 322.7509999999999,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 256.98600000000005,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 267.879,
+                "paid": 0.0
+              }
+            ]
+          },
+          {
+            "source_type": "Display Ads",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 0.0,
+                "paid": 3347.178000000001
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 0.0,
+                "paid": 3438.0620000000004
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 0.0,
+                "paid": 2525.9040000000005
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 0.0,
+                "paid": 3067.326000000001
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 0.0,
+                "paid": 2295.8049999999994
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 0.0,
+                "paid": 2271.478
+              }
+            ]
+          },
+          {
+            "source_type": "Direct",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 76051.708,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 86265.906,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 64713.97599999999,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 91530.53399999999,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 73832.16,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 76689.31199999999,
+                "paid": 0.0
+              }
+            ]
+          },
+          {
+            "source_type": "Referrals",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 9896.689,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 11684.159999999996,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 9052.918000000003,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 12850.979000000001,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 10044.43,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 10447.503,
+                "paid": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "hims.com": {
+    "domain": "hims.com",
+    "visits": {
+      "meta": {
+        "request": {
+          "granularity": "Monthly",
+          "main_domain_only": false,
+          "mtd": false,
+          "show_verified": false,
+          "state": null,
+          "format": "json",
+          "domain": "hims.com",
+          "start_date": "2025-12-01",
+          "end_date": "2026-05-31",
+          "country": "world"
+        },
+        "status": "Success",
+        "last_updated": "2026-05-31",
+        "device": "Total"
+      },
+      "visits": [
+        {
+          "date": "2025-12-01",
+          "visits": 7142051.469857924
+        },
+        {
+          "date": "2026-01-01",
+          "visits": 7022783.155361453
+        },
+        {
+          "date": "2026-02-01",
+          "visits": 6800545.088139433
+        },
+        {
+          "date": "2026-03-01",
+          "visits": 7404021.972618075
+        },
+        {
+          "date": "2026-04-01",
+          "visits": 8259615.917985033
+        },
+        {
+          "date": "2026-05-01",
+          "visits": 9893945.956601106
+        }
+      ]
+    },
+    "rank": {
+      "meta": {
+        "request": {
+          "main_domain_only": false,
+          "show_verified": false,
+          "state": null,
+          "format": "json",
+          "domain": "hims.com",
+          "start_date": "2025-12-01",
+          "end_date": "2026-05-31",
+          "country": "world"
+        },
+        "status": "Success",
+        "last_updated": "2026-05-31"
+      },
+      "global_rank": [
+        {
+          "date": "2025-12",
+          "global_rank": 5765
+        },
+        {
+          "date": "2026-01",
+          "global_rank": 5791
+        },
+        {
+          "date": "2026-02",
+          "global_rank": 5492
+        },
+        {
+          "date": "2026-03",
+          "global_rank": 5625
+        },
+        {
+          "date": "2026-04",
+          "global_rank": 5083
+        },
+        {
+          "date": "2026-05",
+          "global_rank": 4601
+        }
+      ]
+    },
+    "bounce_rate": {
+      "meta": {
+        "request": {
+          "granularity": "Monthly",
+          "main_domain_only": false,
+          "mtd": false,
+          "show_verified": false,
+          "state": null,
+          "format": "json",
+          "domain": "hims.com",
+          "start_date": "2025-12-01",
+          "end_date": "2026-05-31",
+          "country": "world"
+        },
+        "status": "Success",
+        "last_updated": "2026-05-31"
+      },
+      "bounce_rate": [
+        {
+          "date": "2025-12-01",
+          "bounce_rate": 0.5804149923593869
+        },
+        {
+          "date": "2026-01-01",
+          "bounce_rate": 0.5619962384363584
+        },
+        {
+          "date": "2026-02-01",
+          "bounce_rate": 0.546159510785077
+        },
+        {
+          "date": "2026-03-01",
+          "bounce_rate": 0.5743740117448265
+        },
+        {
+          "date": "2026-04-01",
+          "bounce_rate": 0.5950683361864241
+        },
+        {
+          "date": "2026-05-01",
+          "bounce_rate": 0.6266391868164971
+        }
+      ]
+    },
+    "traffic_sources_desktop": {
+      "meta": {
+        "request": {
+          "granularity": "Monthly",
+          "main_domain_only": false,
+          "mtd": false,
+          "show_verified": false,
+          "state": null,
+          "format": "json",
+          "domain": "hims.com",
+          "start_date": "2025-12-01",
+          "end_date": "2026-05-31",
+          "country": "world"
+        },
+        "status": "Success",
+        "last_updated": "2026-05-31"
+      },
+      "visits": {
+        "hims.com": [
+          {
+            "source_type": "Search",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 440225.61899999995,
+                "paid": 270579.848
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 465248.91399999993,
+                "paid": 265231.79600000003
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 496706.96799999994,
+                "paid": 213183.491
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 440471.2180000001,
+                "paid": 205674.968
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 442412.6229999999,
+                "paid": 198127.31899999996
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 504711.7900000001,
+                "paid": 227648.70799999998
+              }
+            ]
+          },
+          {
+            "source_type": "Social",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 53398.602000000006,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 56229.854999999996,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 52953.041999999994,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 51262.332,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 50878.893999999986,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 49452.31,
+                "paid": 0.0
+              }
+            ]
+          },
+          {
+            "source_type": "Mail",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 1549.062,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 1722.2409999999998,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 1573.0290000000005,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 1451.438,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 1426.7440000000001,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 1559.5800000000006,
+                "paid": 0.0
+              }
+            ]
+          },
+          {
+            "source_type": "Display Ads",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 0.0,
+                "paid": 18444.335000000003
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 0.0,
+                "paid": 21046.371
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 0.0,
+                "paid": 19705.185999999998
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 0.0,
+                "paid": 17957.951
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 0.0,
+                "paid": 18399.880999999998
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 0.0,
+                "paid": 19988.042
+              }
+            ]
+          },
+          {
+            "source_type": "Direct",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 717780.512,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 773668.5920000001,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 690556.602,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 684199.5849999998,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 697045.0230000002,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 811637.5429999998,
+                "paid": 0.0
+              }
+            ]
+          },
+          {
+            "source_type": "Referrals",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 77811.42100000002,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 79190.976,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 68516.43800000001,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 64464.70499999999,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 63286.576,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 69592.655,
+                "paid": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "ro.co": {
+    "domain": "ro.co",
+    "visits": {
+      "meta": {
+        "request": {
+          "granularity": "Monthly",
+          "main_domain_only": false,
+          "mtd": false,
+          "show_verified": false,
+          "state": null,
+          "format": "json",
+          "domain": "ro.co",
+          "start_date": "2025-12-01",
+          "end_date": "2026-05-31",
+          "country": "world"
+        },
+        "status": "Success",
+        "last_updated": "2026-05-31",
+        "device": "Total"
+      },
+      "visits": [
+        {
+          "date": "2025-12-01",
+          "visits": 5279474.581474485
+        },
+        {
+          "date": "2026-01-01",
+          "visits": 7629057.045720249
+        },
+        {
+          "date": "2026-02-01",
+          "visits": 6983578.074391868
+        },
+        {
+          "date": "2026-03-01",
+          "visits": 7801086.360514431
+        },
+        {
+          "date": "2026-04-01",
+          "visits": 8063041.544516689
+        },
+        {
+          "date": "2026-05-01",
+          "visits": 8232495.745131124
+        }
+      ]
+    },
+    "rank": {
+      "meta": {
+        "request": {
+          "main_domain_only": false,
+          "show_verified": false,
+          "state": null,
+          "format": "json",
+          "domain": "ro.co",
+          "start_date": "2025-12-01",
+          "end_date": "2026-05-31",
+          "country": "world"
+        },
+        "status": "Success",
+        "last_updated": "2026-05-31"
+      },
+      "global_rank": [
+        {
+          "date": "2025-12",
+          "global_rank": 7487
+        },
+        {
+          "date": "2026-01",
+          "global_rank": 4930
+        },
+        {
+          "date": "2026-02",
+          "global_rank": 4922
+        },
+        {
+          "date": "2026-03",
+          "global_rank": 4957
+        },
+        {
+          "date": "2026-04",
+          "global_rank": 4591
+        },
+        {
+          "date": "2026-05",
+          "global_rank": 4785
+        }
+      ]
+    },
+    "bounce_rate": {
+      "meta": {
+        "request": {
+          "granularity": "Monthly",
+          "main_domain_only": false,
+          "mtd": false,
+          "show_verified": false,
+          "state": null,
+          "format": "json",
+          "domain": "ro.co",
+          "start_date": "2025-12-01",
+          "end_date": "2026-05-31",
+          "country": "world"
+        },
+        "status": "Success",
+        "last_updated": "2026-05-31"
+      },
+      "bounce_rate": [
+        {
+          "date": "2025-12-01",
+          "bounce_rate": 0.4272242932150005
+        },
+        {
+          "date": "2026-01-01",
+          "bounce_rate": 0.4311460013309424
+        },
+        {
+          "date": "2026-02-01",
+          "bounce_rate": 0.4463681816082116
+        },
+        {
+          "date": "2026-03-01",
+          "bounce_rate": 0.4523483290839543
+        },
+        {
+          "date": "2026-04-01",
+          "bounce_rate": 0.4466094201888846
+        },
+        {
+          "date": "2026-05-01",
+          "bounce_rate": 0.45198345717132915
+        }
+      ]
+    },
+    "traffic_sources_desktop": {
+      "meta": {
+        "request": {
+          "granularity": "Monthly",
+          "main_domain_only": false,
+          "mtd": false,
+          "show_verified": false,
+          "state": null,
+          "format": "json",
+          "domain": "ro.co",
+          "start_date": "2025-12-01",
+          "end_date": "2026-05-31",
+          "country": "world"
+        },
+        "status": "Success",
+        "last_updated": "2026-05-31"
+      },
+      "visits": {
+        "ro.co": [
+          {
+            "source_type": "Search",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 236283.16400000002,
+                "paid": 221427.22700000007
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 314372.62400000007,
+                "paid": 365435.195
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 304204.565,
+                "paid": 302296.31399999995
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 314375.05,
+                "paid": 311913.84599999996
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 302666.148,
+                "paid": 324384.91200000007
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 306186.942,
+                "paid": 325462.057
+              }
+            ]
+          },
+          {
+            "source_type": "Social",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 33555.346999999994,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 51718.461,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 45518.05100000001,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 41668.357,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 39827.94999999998,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 36358.986000000004,
+                "paid": 0.0
+              }
+            ]
+          },
+          {
+            "source_type": "Mail",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 1305.757,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 1886.899,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 1717.5790000000002,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 1732.1680000000001,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 1740.0879999999997,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 1764.6030000000003,
+                "paid": 0.0
+              }
+            ]
+          },
+          {
+            "source_type": "Display Ads",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 0.0,
+                "paid": 46555.47800000001
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 0.0,
+                "paid": 63168.456999999995
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 0.0,
+                "paid": 52665.179000000004
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 0.0,
+                "paid": 46320.538
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 0.0,
+                "paid": 41369.484
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 0.0,
+                "paid": 36343.935
+              }
+            ]
+          },
+          {
+            "source_type": "Direct",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 515555.86799999996,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 824759.7480000003,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 749501.562,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 800945.8130000002,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 799317.1599999999,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 772963.335,
+                "paid": 0.0
+              }
+            ]
+          },
+          {
+            "source_type": "Referrals",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 69533.79699999999,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 101533.28099999999,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 84984.80799999999,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 86090.22,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 84079.91600000001,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 80754.31,
+                "paid": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "magnali.com": {
+    "domain": "magnali.com",
+    "visits": {
+      "meta": {
+        "request": {
+          "granularity": "Monthly",
+          "main_domain_only": false,
+          "mtd": false,
+          "show_verified": false,
+          "state": null,
+          "format": "json",
+          "domain": "magnali.com",
+          "start_date": "2025-12-01",
+          "end_date": "2026-05-31",
+          "country": "world"
+        },
+        "status": "Success",
+        "last_updated": "2026-05-31",
+        "device": "Total"
+      },
+      "visits": [
+        {
+          "date": "2025-12-01",
+          "visits": 22546.200281246292
+        },
+        {
+          "date": "2026-01-01",
+          "visits": 7507.588718824542
+        },
+        {
+          "date": "2026-02-01",
+          "visits": 7828.45703463904
+        },
+        {
+          "date": "2026-03-01",
+          "visits": 16336.057873590904
+        },
+        {
+          "date": "2026-04-01",
+          "visits": 17580.22730707751
+        },
+        {
+          "date": "2026-05-01",
+          "visits": 27827.249402244077
+        }
+      ]
+    },
+    "rank": {
+      "meta": {
+        "request": {
+          "main_domain_only": false,
+          "show_verified": false,
+          "state": null,
+          "format": "json",
+          "domain": "magnali.com",
+          "start_date": "2025-12-01",
+          "end_date": "2026-05-31",
+          "country": "world"
+        },
+        "status": "Success",
+        "last_updated": "2026-05-31"
+      },
+      "global_rank": [
+        {
+          "date": "2025-12",
+          "global_rank": 1333755
+        },
+        {
+          "date": "2026-01",
+          "global_rank": 2610463
+        },
+        {
+          "date": "2026-02",
+          "global_rank": 2759070
+        },
+        {
+          "date": "2026-03",
+          "global_rank": 1742814
+        },
+        {
+          "date": "2026-04",
+          "global_rank": 1824605
+        },
+        {
+          "date": "2026-05",
+          "global_rank": 1203445
+        }
+      ]
+    },
+    "bounce_rate": {
+      "meta": {
+        "request": {
+          "granularity": "Monthly",
+          "main_domain_only": false,
+          "mtd": false,
+          "show_verified": false,
+          "state": null,
+          "format": "json",
+          "domain": "magnali.com",
+          "start_date": "2025-12-01",
+          "end_date": "2026-05-31",
+          "country": "world"
+        },
+        "status": "Success",
+        "last_updated": "2026-05-31"
+      },
+      "bounce_rate": [
+        {
+          "date": "2025-12-01",
+          "bounce_rate": 0.8005528071686601
+        },
+        {
+          "date": "2026-01-01",
+          "bounce_rate": 0.4792434687145264
+        },
+        {
+          "date": "2026-02-01",
+          "bounce_rate": 0.6322956809108898
+        },
+        {
+          "date": "2026-03-01",
+          "bounce_rate": 0.8088456097512596
+        },
+        {
+          "date": "2026-04-01",
+          "bounce_rate": 0.7385061708124393
+        },
+        {
+          "date": "2026-05-01",
+          "bounce_rate": 0.6421278582686543
+        }
+      ]
+    },
+    "traffic_sources_desktop": {
+      "meta": {
+        "request": {
+          "granularity": "Monthly",
+          "main_domain_only": false,
+          "mtd": false,
+          "show_verified": false,
+          "state": null,
+          "format": "json",
+          "domain": "magnali.com",
+          "start_date": "2025-12-01",
+          "end_date": "2026-05-31",
+          "country": "world"
+        },
+        "status": "Success",
+        "last_updated": "2026-05-31"
+      },
+      "visits": {
+        "magnali.com": [
+          {
+            "source_type": "Search",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 169.619,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 52.46000000000001,
+                "paid": 94.238
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 22.576000000000004,
+                "paid": 18.823
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 239.61699999999993,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 409.93199999999996,
+                "paid": 3.9220000000000006
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 313.979,
+                "paid": 7.429000000000002
+              }
+            ]
+          },
+          {
+            "source_type": "Social",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 1965.5379999999998,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 1300.244,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 311.02599999999995,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 0.0,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 292.73300000000006,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 2442.3549999999996,
+                "paid": 0.0
+              }
+            ]
+          },
+          {
+            "source_type": "Mail",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 2.294,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 1.563,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 0.38300000000000006,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 0.0,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 1.2360000000000002,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 1.9189999999999998,
+                "paid": 0.0
+              }
+            ]
+          },
+          {
+            "source_type": "Display Ads",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 0.0,
+                "paid": 30.317999999999994
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 0.0,
+                "paid": 20.295000000000005
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 0.0,
+                "paid": 4.895000000000002
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 0.0,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 0.0,
+                "paid": 12.315
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 0.0,
+                "paid": 216.268
+              }
+            ]
+          },
+          {
+            "source_type": "Direct",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 169.81699999999998,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 146.77700000000002,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 286.59400000000005,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 263.47799999999995,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 609.9470000000002,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 857.212,
+                "paid": 0.0
+              }
+            ]
+          },
+          {
+            "source_type": "Referrals",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 126.669,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 87.035,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 21.375,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 0.0,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 59.64999999999999,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 101.26299999999998,
+                "paid": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "kindpatches.com": {
+    "domain": "kindpatches.com",
+    "visits": {
+      "meta": {
+        "request": {
+          "granularity": "Monthly",
+          "main_domain_only": false,
+          "mtd": false,
+          "show_verified": false,
+          "state": null,
+          "format": "json",
+          "domain": "kindpatches.com",
+          "start_date": "2025-12-01",
+          "end_date": "2026-05-31",
+          "country": "world"
+        },
+        "status": "Success",
+        "last_updated": "2026-05-31",
+        "device": "Total"
+      },
+      "visits": [
+        {
+          "date": "2025-12-01",
+          "visits": 2058712.4814116608
+        },
+        {
+          "date": "2026-01-01",
+          "visits": 2246411.288739138
+        },
+        {
+          "date": "2026-02-01",
+          "visits": 1928222.334454793
+        },
+        {
+          "date": "2026-03-01",
+          "visits": 2966980.9505079356
+        },
+        {
+          "date": "2026-04-01",
+          "visits": 2408797.7537925206
+        },
+        {
+          "date": "2026-05-01",
+          "visits": 2044843.9250256028
+        }
+      ]
+    },
+    "rank": {
+      "meta": {
+        "request": {
+          "main_domain_only": false,
+          "show_verified": false,
+          "state": null,
+          "format": "json",
+          "domain": "kindpatches.com",
+          "start_date": "2025-12-01",
+          "end_date": "2026-05-31",
+          "country": "world"
+        },
+        "status": "Success",
+        "last_updated": "2026-05-31"
+      },
+      "global_rank": [
+        {
+          "date": "2025-12",
+          "global_rank": 27672
+        },
+        {
+          "date": "2026-01",
+          "global_rank": 26445
+        },
+        {
+          "date": "2026-02",
+          "global_rank": 27419
+        },
+        {
+          "date": "2026-03",
+          "global_rank": 18784
+        },
+        {
+          "date": "2026-04",
+          "global_rank": 22652
+        },
+        {
+          "date": "2026-05",
+          "global_rank": 26433
+        }
+      ]
+    },
+    "bounce_rate": {
+      "meta": {
+        "request": {
+          "granularity": "Monthly",
+          "main_domain_only": false,
+          "mtd": false,
+          "show_verified": false,
+          "state": null,
+          "format": "json",
+          "domain": "kindpatches.com",
+          "start_date": "2025-12-01",
+          "end_date": "2026-05-31",
+          "country": "world"
+        },
+        "status": "Success",
+        "last_updated": "2026-05-31"
+      },
+      "bounce_rate": [
+        {
+          "date": "2025-12-01",
+          "bounce_rate": 0.4534088483647301
+        },
+        {
+          "date": "2026-01-01",
+          "bounce_rate": 0.4727787466587008
+        },
+        {
+          "date": "2026-02-01",
+          "bounce_rate": 0.4329616052343777
+        },
+        {
+          "date": "2026-03-01",
+          "bounce_rate": 0.4016997762811978
+        },
+        {
+          "date": "2026-04-01",
+          "bounce_rate": 0.4433582553422602
+        },
+        {
+          "date": "2026-05-01",
+          "bounce_rate": 0.415898605251294
+        }
+      ]
+    },
+    "traffic_sources_desktop": {
+      "meta": {
+        "request": {
+          "granularity": "Monthly",
+          "main_domain_only": false,
+          "mtd": false,
+          "show_verified": false,
+          "state": null,
+          "format": "json",
+          "domain": "kindpatches.com",
+          "start_date": "2025-12-01",
+          "end_date": "2026-05-31",
+          "country": "world"
+        },
+        "status": "Success",
+        "last_updated": "2026-05-31"
+      },
+      "visits": {
+        "kindpatches.com": [
+          {
+            "source_type": "Search",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 10940.598000000002,
+                "paid": 13672.187000000002
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 14020.366,
+                "paid": 13409.070000000002
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 13190.461,
+                "paid": 9725.431999999999
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 13724.648000000001,
+                "paid": 10318.095000000003
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 8378.279999999999,
+                "paid": 9523.402
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 8088.924,
+                "paid": 7192.854
+              }
+            ]
+          },
+          {
+            "source_type": "Social",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 5177.377,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 9256.248999999998,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 5536.775999999999,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 6029.966,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 5270.141,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 5002.074,
+                "paid": 0.0
+              }
+            ]
+          },
+          {
+            "source_type": "Mail",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 116.62299999999998,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 128.969,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 106.14600000000002,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 108.034,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 89.77400000000002,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 78.54599999999999,
+                "paid": 0.0
+              }
+            ]
+          },
+          {
+            "source_type": "Display Ads",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 0.0,
+                "paid": 918.7620000000001
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 0.0,
+                "paid": 1045.0280000000002
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 0.0,
+                "paid": 776.6959999999999
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 0.0,
+                "paid": 810.0180000000003
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 0.0,
+                "paid": 657.0069999999998
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 0.0,
+                "paid": 566.194
+              }
+            ]
+          },
+          {
+            "source_type": "Direct",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 31775.27,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 42091.26700000001,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 31946.255,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 32394.934,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 27764.446000000007,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 23510.911000000004,
+                "paid": 0.0
+              }
+            ]
+          },
+          {
+            "source_type": "Referrals",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 3751.201,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 4236.721,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 3491.343,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 3743.641000000001,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 3049.7390000000005,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 3173.98,
+                "paid": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "agelessrx.com": {
+    "domain": "agelessrx.com",
+    "visits": {
+      "meta": {
+        "request": {
+          "granularity": "Monthly",
+          "main_domain_only": false,
+          "mtd": false,
+          "show_verified": false,
+          "state": null,
+          "format": "json",
+          "domain": "agelessrx.com",
+          "start_date": "2025-12-01",
+          "end_date": "2026-05-31",
+          "country": "world"
+        },
+        "status": "Success",
+        "last_updated": "2026-05-31",
+        "device": "Total"
+      },
+      "visits": [
+        {
+          "date": "2025-12-01",
+          "visits": 452276.54315981414
+        },
+        {
+          "date": "2026-01-01",
+          "visits": 559590.694770125
+        },
+        {
+          "date": "2026-02-01",
+          "visits": 486856.233128245
+        },
+        {
+          "date": "2026-03-01",
+          "visits": 516743.63504259253
+        },
+        {
+          "date": "2026-04-01",
+          "visits": 594146.6219426005
+        },
+        {
+          "date": "2026-05-01",
+          "visits": 542867.8009582129
+        }
+      ]
+    },
+    "rank": {
+      "meta": {
+        "request": {
+          "main_domain_only": false,
+          "show_verified": false,
+          "state": null,
+          "format": "json",
+          "domain": "agelessrx.com",
+          "start_date": "2025-12-01",
+          "end_date": "2026-05-31",
+          "country": "world"
+        },
+        "status": "Success",
+        "last_updated": "2026-05-31"
+      },
+      "global_rank": [
+        {
+          "date": "2025-12",
+          "global_rank": 78725
+        },
+        {
+          "date": "2026-01",
+          "global_rank": 70277
+        },
+        {
+          "date": "2026-02",
+          "global_rank": 67028
+        },
+        {
+          "date": "2026-03",
+          "global_rank": 67965
+        },
+        {
+          "date": "2026-04",
+          "global_rank": 61031
+        },
+        {
+          "date": "2026-05",
+          "global_rank": 68842
+        }
+      ]
+    },
+    "bounce_rate": {
+      "meta": {
+        "request": {
+          "granularity": "Monthly",
+          "main_domain_only": false,
+          "mtd": false,
+          "show_verified": false,
+          "state": null,
+          "format": "json",
+          "domain": "agelessrx.com",
+          "start_date": "2025-12-01",
+          "end_date": "2026-05-31",
+          "country": "world"
+        },
+        "status": "Success",
+        "last_updated": "2026-05-31"
+      },
+      "bounce_rate": [
+        {
+          "date": "2025-12-01",
+          "bounce_rate": 0.3098411477178779
+        },
+        {
+          "date": "2026-01-01",
+          "bounce_rate": 0.3808595519817052
+        },
+        {
+          "date": "2026-02-01",
+          "bounce_rate": 0.3459986444430687
+        },
+        {
+          "date": "2026-03-01",
+          "bounce_rate": 0.3748432579134303
+        },
+        {
+          "date": "2026-04-01",
+          "bounce_rate": 0.36959757008167193
+        },
+        {
+          "date": "2026-05-01",
+          "bounce_rate": 0.3951664094323702
+        }
+      ]
+    },
+    "traffic_sources_desktop": {
+      "meta": {
+        "request": {
+          "granularity": "Monthly",
+          "main_domain_only": false,
+          "mtd": false,
+          "show_verified": false,
+          "state": null,
+          "format": "json",
+          "domain": "agelessrx.com",
+          "start_date": "2025-12-01",
+          "end_date": "2026-05-31",
+          "country": "world"
+        },
+        "status": "Success",
+        "last_updated": "2026-05-31"
+      },
+      "visits": {
+        "agelessrx.com": [
+          {
+            "source_type": "Search",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 29870.502999999997,
+                "paid": 26636.300999999996
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 34382.904,
+                "paid": 31099.518999999997
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 25979.933000000005,
+                "paid": 24523.39
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 21801.932,
+                "paid": 31328.09799999999
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 22276.639999999992,
+                "paid": 32829.742999999995
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 20645.815999999995,
+                "paid": 36002.075000000004
+              }
+            ]
+          },
+          {
+            "source_type": "Social",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 3635.478,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 4677.343,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 3507.639,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 3913.26,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 3489.6400000000003,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 3520.739,
+                "paid": 0.0
+              }
+            ]
+          },
+          {
+            "source_type": "Mail",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 187.74800000000002,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 217.55900000000003,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 168.808,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 181.493,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 176.00700000000006,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 182.91799999999998,
+                "paid": 0.0
+              }
+            ]
+          },
+          {
+            "source_type": "Display Ads",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 0.0,
+                "paid": 453.62600000000003
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 0.0,
+                "paid": 614.8489999999999
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 0.0,
+                "paid": 462.69599999999997
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 0.0,
+                "paid": 545.9100000000001
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 0.0,
+                "paid": 555.0300000000001
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 0.0,
+                "paid": 578.815
+              }
+            ]
+          },
+          {
+            "source_type": "Direct",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 69363.52600000001,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 83043.3,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 64973.08900000001,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 70097.009,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 72013.10399999999,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 74374.109,
+                "paid": 0.0
+              }
+            ]
+          },
+          {
+            "source_type": "Referrals",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 4318.693,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 5339.194999999999,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 3998.0480000000007,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 4601.400999999999,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 4526.452,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 5103.268,
+                "paid": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "defymedical.com": {
+    "domain": "defymedical.com",
+    "visits": {
+      "meta": {
+        "request": {
+          "granularity": "Monthly",
+          "main_domain_only": false,
+          "mtd": false,
+          "show_verified": false,
+          "state": null,
+          "format": "json",
+          "domain": "defymedical.com",
+          "start_date": "2025-12-01",
+          "end_date": "2026-05-31",
+          "country": "world"
+        },
+        "status": "Success",
+        "last_updated": "2026-05-31",
+        "device": "Total"
+      },
+      "visits": [
+        {
+          "date": "2025-12-01",
+          "visits": 65190.448563404934
+        },
+        {
+          "date": "2026-01-01",
+          "visits": 72775.08725565053
+        },
+        {
+          "date": "2026-02-01",
+          "visits": 56893.243509010535
+        },
+        {
+          "date": "2026-03-01",
+          "visits": 70570.32480693632
+        },
+        {
+          "date": "2026-04-01",
+          "visits": 55893.11039392712
+        },
+        {
+          "date": "2026-05-01",
+          "visits": 51635.86750438421
+        }
+      ]
+    },
+    "rank": {
+      "meta": {
+        "request": {
+          "main_domain_only": false,
+          "show_verified": false,
+          "state": null,
+          "format": "json",
+          "domain": "defymedical.com",
+          "start_date": "2025-12-01",
+          "end_date": "2026-05-31",
+          "country": "world"
+        },
+        "status": "Success",
+        "last_updated": "2026-05-31"
+      },
+      "global_rank": [
+        {
+          "date": "2025-12",
+          "global_rank": 532472
+        },
+        {
+          "date": "2026-01",
+          "global_rank": 515026
+        },
+        {
+          "date": "2026-02",
+          "global_rank": 564502
+        },
+        {
+          "date": "2026-03",
+          "global_rank": 521346
+        },
+        {
+          "date": "2026-04",
+          "global_rank": 602200
+        },
+        {
+          "date": "2026-05",
+          "global_rank": 669784
+        }
+      ]
+    },
+    "bounce_rate": {
+      "meta": {
+        "request": {
+          "granularity": "Monthly",
+          "main_domain_only": false,
+          "mtd": false,
+          "show_verified": false,
+          "state": null,
+          "format": "json",
+          "domain": "defymedical.com",
+          "start_date": "2025-12-01",
+          "end_date": "2026-05-31",
+          "country": "world"
+        },
+        "status": "Success",
+        "last_updated": "2026-05-31"
+      },
+      "bounce_rate": [
+        {
+          "date": "2025-12-01",
+          "bounce_rate": 0.5146431265471498
+        },
+        {
+          "date": "2026-01-01",
+          "bounce_rate": 0.5953973845844899
+        },
+        {
+          "date": "2026-02-01",
+          "bounce_rate": 0.5022554065818989
+        },
+        {
+          "date": "2026-03-01",
+          "bounce_rate": 0.5179035452772
+        },
+        {
+          "date": "2026-04-01",
+          "bounce_rate": 0.5484665649813331
+        },
+        {
+          "date": "2026-05-01",
+          "bounce_rate": 0.48263633758841107
+        }
+      ]
+    },
+    "traffic_sources_desktop": {
+      "meta": {
+        "request": {
+          "granularity": "Monthly",
+          "main_domain_only": false,
+          "mtd": false,
+          "show_verified": false,
+          "state": null,
+          "format": "json",
+          "domain": "defymedical.com",
+          "start_date": "2025-12-01",
+          "end_date": "2026-05-31",
+          "country": "world"
+        },
+        "status": "Success",
+        "last_updated": "2026-05-31"
+      },
+      "visits": {
+        "defymedical.com": [
+          {
+            "source_type": "Search",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 12758.264,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 14079.418,
+                "paid": 1.5079999999999998
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 13584.966999999997,
+                "paid": 6.904
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 16902.382999999998,
+                "paid": 5.992999999999999
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 12303.320000000002,
+                "paid": 10.626
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 11264.788,
+                "paid": 22.459
+              }
+            ]
+          },
+          {
+            "source_type": "Social",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 105.189,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 145.67199999999994,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 178.52,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 210.15399999999997,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 189.677,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 150.28700000000003,
+                "paid": 0.0
+              }
+            ]
+          },
+          {
+            "source_type": "Mail",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 10.017,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 11.921999999999997,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 11.673,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 12.593999999999998,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 12.092000000000002,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 10.762999999999998,
+                "paid": 0.0
+              }
+            ]
+          },
+          {
+            "source_type": "Display Ads",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 0.0,
+                "paid": 66.78300000000002
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 0.0,
+                "paid": 79.816
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 0.0,
+                "paid": 84.61400000000002
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 0.0,
+                "paid": 98.335
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 0.0,
+                "paid": 83.816
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 0.0,
+                "paid": 85.932
+              }
+            ]
+          },
+          {
+            "source_type": "Direct",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 8278.387999999999,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 9261.500000000004,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 8728.413000000002,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 12021.863999999998,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 7810.740999999998,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 7184.843999999999,
+                "paid": 0.0
+              }
+            ]
+          },
+          {
+            "source_type": "Referrals",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 911.9639999999999,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 957.4930000000003,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 941.4150000000001,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 1149.284,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 939.1289999999999,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 898.4720000000002,
+                "paid": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "peptidesciences.com": {
+    "domain": "peptidesciences.com",
+    "visits": {
+      "meta": {
+        "request": {
+          "granularity": "Monthly",
+          "main_domain_only": false,
+          "mtd": false,
+          "show_verified": false,
+          "state": null,
+          "format": "json",
+          "domain": "peptidesciences.com",
+          "start_date": "2025-12-01",
+          "end_date": "2026-05-31",
+          "country": "world"
+        },
+        "status": "Success",
+        "last_updated": "2026-05-31",
+        "device": "Total"
+      },
+      "visits": [
+        {
+          "date": "2025-12-01",
+          "visits": 1083156.8721366778
+        },
+        {
+          "date": "2026-01-01",
+          "visits": 1161244.152916722
+        },
+        {
+          "date": "2026-02-01",
+          "visits": 837231.6300747897
+        },
+        {
+          "date": "2026-03-01",
+          "visits": 435622.85476829635
+        },
+        {
+          "date": "2026-04-01",
+          "visits": 86855.02393879314
+        },
+        {
+          "date": "2026-05-01",
+          "visits": 45003.648022239504
+        }
+      ]
+    },
+    "rank": {
+      "meta": {
+        "request": {
+          "main_domain_only": false,
+          "show_verified": false,
+          "state": null,
+          "format": "json",
+          "domain": "peptidesciences.com",
+          "start_date": "2025-12-01",
+          "end_date": "2026-05-31",
+          "country": "world"
+        },
+        "status": "Success",
+        "last_updated": "2026-05-31"
+      },
+      "global_rank": [
+        {
+          "date": "2025-12",
+          "global_rank": 48958
+        },
+        {
+          "date": "2026-01",
+          "global_rank": 47632
+        },
+        {
+          "date": "2026-02",
+          "global_rank": 57097
+        },
+        {
+          "date": "2026-03",
+          "global_rank": 116827
+        },
+        {
+          "date": "2026-04",
+          "global_rank": 473906
+        },
+        {
+          "date": "2026-05",
+          "global_rank": 824620
+        }
+      ]
+    },
+    "bounce_rate": {
+      "meta": {
+        "request": {
+          "granularity": "Monthly",
+          "main_domain_only": false,
+          "mtd": false,
+          "show_verified": false,
+          "state": null,
+          "format": "json",
+          "domain": "peptidesciences.com",
+          "start_date": "2025-12-01",
+          "end_date": "2026-05-31",
+          "country": "world"
+        },
+        "status": "Success",
+        "last_updated": "2026-05-31"
+      },
+      "bounce_rate": [
+        {
+          "date": "2025-12-01",
+          "bounce_rate": 0.4428047175490805
+        },
+        {
+          "date": "2026-01-01",
+          "bounce_rate": 0.4544276527292336
+        },
+        {
+          "date": "2026-02-01",
+          "bounce_rate": 0.4320324575753455
+        },
+        {
+          "date": "2026-03-01",
+          "bounce_rate": 0.49520057757404773
+        },
+        {
+          "date": "2026-04-01",
+          "bounce_rate": 0.6404718101829565
+        },
+        {
+          "date": "2026-05-01",
+          "bounce_rate": 0.6629724502833947
+        }
+      ]
+    },
+    "traffic_sources_desktop": {
+      "meta": {
+        "request": {
+          "granularity": "Monthly",
+          "main_domain_only": false,
+          "mtd": false,
+          "show_verified": false,
+          "state": null,
+          "format": "json",
+          "domain": "peptidesciences.com",
+          "start_date": "2025-12-01",
+          "end_date": "2026-05-31",
+          "country": "world"
+        },
+        "status": "Success",
+        "last_updated": "2026-05-31"
+      },
+      "visits": {
+        "peptidesciences.com": [
+          {
+            "source_type": "Search",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 172176.058,
+                "paid": 7390.424000000001
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 161750.56599999996,
+                "paid": 6061.791000000001
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 141571.78900000002,
+                "paid": 2206.2070000000003
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 80980.89400000003,
+                "paid": 55.556000000000004
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 17712.685,
+                "paid": 2.7649999999999997
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 9980.154999999999,
+                "paid": 3.0690000000000013
+              }
+            ]
+          },
+          {
+            "source_type": "Social",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 9908.673999999999,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 9037.078000000003,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 6739.949999999999,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 3729.9809999999998,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 767.4229999999998,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 399.3279999999999,
+                "paid": 0.0
+              }
+            ]
+          },
+          {
+            "source_type": "Mail",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 583.749,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 546.1519999999999,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 453.487,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 252.77,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 51.449,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 27.313,
+                "paid": 0.0
+              }
+            ]
+          },
+          {
+            "source_type": "Display Ads",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 0.0,
+                "paid": 6787.256999999998
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 0.0,
+                "paid": 5700.601
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 0.0,
+                "paid": 4570.63
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 0.0,
+                "paid": 2298.7900000000004
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 0.0,
+                "paid": 452.7449999999999
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 0.0,
+                "paid": 219.863
+              }
+            ]
+          },
+          {
+            "source_type": "Direct",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 212099.8,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 199983.93000000005,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 170756.35100000002,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 95166.92300000001,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 21075.816000000003,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 11399.850999999997,
+                "paid": 0.0
+              }
+            ]
+          },
+          {
+            "source_type": "Referrals",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 24120.183999999997,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 20493.139,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 16579.966,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 9418.892,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 1934.6699999999996,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 1013.663,
+                "paid": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "noholabs.com": {
+    "domain": "noholabs.com",
+    "visits": {
+      "meta": {
+        "request": {
+          "granularity": "Monthly",
+          "main_domain_only": false,
+          "mtd": false,
+          "show_verified": false,
+          "state": null,
+          "format": "json",
+          "domain": "noholabs.com",
+          "start_date": "2025-12-01",
+          "end_date": "2026-05-31",
+          "country": "world"
+        },
+        "status": "Success",
+        "last_updated": "2026-05-31",
+        "device": "Total"
+      },
+      "visits": [
+        {
+          "date": "2025-12-01",
+          "visits": 0.0
+        },
+        {
+          "date": "2026-01-01",
+          "visits": 2025.2321910896069
+        },
+        {
+          "date": "2026-02-01",
+          "visits": 2081.134402191757
+        },
+        {
+          "date": "2026-03-01",
+          "visits": 3222.464375223195
+        },
+        {
+          "date": "2026-04-01",
+          "visits": 5044.048689745734
+        },
+        {
+          "date": "2026-05-01",
+          "visits": 5428.054508257861
+        }
+      ]
+    },
+    "rank": {
+      "meta": {
+        "request": {
+          "main_domain_only": false,
+          "show_verified": false,
+          "state": null,
+          "format": "json",
+          "domain": "noholabs.com",
+          "start_date": "2025-12-01",
+          "end_date": "2026-05-31",
+          "country": "world"
+        },
+        "status": "Success",
+        "last_updated": "2026-05-31"
+      },
+      "global_rank": [
+        {
+          "date": "2025-12",
+          "global_rank": 0
+        },
+        {
+          "date": "2026-01",
+          "global_rank": 5013678
+        },
+        {
+          "date": "2026-02",
+          "global_rank": 6174652
+        },
+        {
+          "date": "2026-03",
+          "global_rank": 4505780
+        },
+        {
+          "date": "2026-04",
+          "global_rank": 2565440
+        },
+        {
+          "date": "2026-05",
+          "global_rank": 3082195
+        }
+      ]
+    },
+    "bounce_rate": {
+      "meta": {
+        "request": {
+          "granularity": "Monthly",
+          "main_domain_only": false,
+          "mtd": false,
+          "show_verified": false,
+          "state": null,
+          "format": "json",
+          "domain": "noholabs.com",
+          "start_date": "2025-12-01",
+          "end_date": "2026-05-31",
+          "country": "world"
+        },
+        "status": "Success",
+        "last_updated": "2026-05-31"
+      },
+      "bounce_rate": [
+        {
+          "date": "2025-12-01",
+          "bounce_rate": null
+        },
+        {
+          "date": "2026-01-01",
+          "bounce_rate": 0.2136236305184163
+        },
+        {
+          "date": "2026-02-01",
+          "bounce_rate": 0.29932426130705797
+        },
+        {
+          "date": "2026-03-01",
+          "bounce_rate": 0.4656921629185061
+        },
+        {
+          "date": "2026-04-01",
+          "bounce_rate": 0.2948115714176125
+        },
+        {
+          "date": "2026-05-01",
+          "bounce_rate": 0.3396202048298701
+        }
+      ]
+    },
+    "traffic_sources_desktop": {
+      "meta": {
+        "request": {
+          "granularity": "Monthly",
+          "main_domain_only": false,
+          "mtd": false,
+          "show_verified": false,
+          "state": null,
+          "format": "json",
+          "domain": "noholabs.com",
+          "start_date": "2025-12-01",
+          "end_date": "2026-05-31",
+          "country": "world"
+        },
+        "status": "Success",
+        "last_updated": "2026-05-31"
+      },
+      "visits": {
+        "noholabs.com": [
+          {
+            "source_type": "Search",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 0.0,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 49.344,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 40.242000000000004,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 102.323,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 226.371,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 263.565,
+                "paid": 0.0
+              }
+            ]
+          },
+          {
+            "source_type": "Social",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 0.0,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 139.665,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 97.61699999999999,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 128.31,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 227.01999999999998,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 237.23600000000002,
+                "paid": 0.0
+              }
+            ]
+          },
+          {
+            "source_type": "Mail",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 0.0,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 3.089,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 2.2219999999999995,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 2.3339999999999996,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 3.462,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 3.240999999999999,
+                "paid": 0.0
+              }
+            ]
+          },
+          {
+            "source_type": "Display Ads",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 0.0,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 0.0,
+                "paid": 25.061999999999998
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 0.0,
+                "paid": 18.108999999999998
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 0.0,
+                "paid": 20.775
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 0.0,
+                "paid": 31.009999999999994
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 0.0,
+                "paid": 30.021999999999995
+              }
+            ]
+          },
+          {
+            "source_type": "Direct",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 0.0,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 1625.156,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 1185.2429999999997,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 1398.707,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 2059.823,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 1978.2849999999996,
+                "paid": 0.0
+              }
+            ]
+          },
+          {
+            "source_type": "Referrals",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 0.0,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 107.871,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 78.55100000000004,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 93.79900000000002,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 140.09300000000002,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 135.966,
+                "paid": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "alunascience.com": {
+    "domain": "alunascience.com",
+    "visits": {
+      "code": "failed_precondition",
+      "message": "api call failed: internal: api call failed, status code: 404, body: {\"meta\":{\"status\":\"Error\",\"error_code\":401,\"error_message\":\"Data not found\"}}"
+    },
+    "rank": {
+      "code": "failed_precondition",
+      "message": "api call failed: internal: api call failed, status code: 404, body: {\"meta\":{\"status\":\"Error\",\"error_code\":401,\"error_message\":\"Data not found\"}}"
+    },
+    "bounce_rate": {
+      "code": "failed_precondition",
+      "message": "api call failed: internal: api call failed, status code: 404, body: {\"meta\":{\"status\":\"Error\",\"error_code\":401,\"error_message\":\"Data not found\"}}"
+    },
+    "traffic_sources_desktop": {
+      "code": "failed_precondition",
+      "message": "api call failed: internal: api call failed, status code: 404, body: {\"meta\":{\"status\":\"Error\",\"error_code\":401,\"error_message\":\"Data not found\"}}"
+    }
+  },
+  "openloophealth.com": {
+    "domain": "openloophealth.com",
+    "visits": {
+      "meta": {
+        "request": {
+          "granularity": "Monthly",
+          "main_domain_only": false,
+          "mtd": false,
+          "show_verified": false,
+          "state": null,
+          "format": "json",
+          "domain": "openloophealth.com",
+          "start_date": "2025-12-01",
+          "end_date": "2026-05-31",
+          "country": "world"
+        },
+        "status": "Success",
+        "last_updated": "2026-05-31",
+        "device": "Total"
+      },
+      "visits": [
+        {
+          "date": "2025-12-01",
+          "visits": 79752.19475706546
+        },
+        {
+          "date": "2026-01-01",
+          "visits": 108804.16902236629
+        },
+        {
+          "date": "2026-02-01",
+          "visits": 61294.45443371654
+        },
+        {
+          "date": "2026-03-01",
+          "visits": 87023.09566814898
+        },
+        {
+          "date": "2026-04-01",
+          "visits": 173153.1617080756
+        },
+        {
+          "date": "2026-05-01",
+          "visits": 154842.72853052558
+        }
+      ]
+    },
+    "rank": {
+      "meta": {
+        "request": {
+          "main_domain_only": false,
+          "show_verified": false,
+          "state": null,
+          "format": "json",
+          "domain": "openloophealth.com",
+          "start_date": "2025-12-01",
+          "end_date": "2026-05-31",
+          "country": "world"
+        },
+        "status": "Success",
+        "last_updated": "2026-05-31"
+      },
+      "global_rank": [
+        {
+          "date": "2025-12",
+          "global_rank": 331904
+        },
+        {
+          "date": "2026-01",
+          "global_rank": 269312
+        },
+        {
+          "date": "2026-02",
+          "global_rank": 418782
+        },
+        {
+          "date": "2026-03",
+          "global_rank": 259022
+        },
+        {
+          "date": "2026-04",
+          "global_rank": 117371
+        },
+        {
+          "date": "2026-05",
+          "global_rank": 137590
+        }
+      ]
+    },
+    "bounce_rate": {
+      "meta": {
+        "request": {
+          "granularity": "Monthly",
+          "main_domain_only": false,
+          "mtd": false,
+          "show_verified": false,
+          "state": null,
+          "format": "json",
+          "domain": "openloophealth.com",
+          "start_date": "2025-12-01",
+          "end_date": "2026-05-31",
+          "country": "world"
+        },
+        "status": "Success",
+        "last_updated": "2026-05-31"
+      },
+      "bounce_rate": [
+        {
+          "date": "2025-12-01",
+          "bounce_rate": 0.4481292835059921
+        },
+        {
+          "date": "2026-01-01",
+          "bounce_rate": 0.4401040579610968
+        },
+        {
+          "date": "2026-02-01",
+          "bounce_rate": 0.4770599869557808
+        },
+        {
+          "date": "2026-03-01",
+          "bounce_rate": 0.4383107957165908
+        },
+        {
+          "date": "2026-04-01",
+          "bounce_rate": 0.4667247792294775
+        },
+        {
+          "date": "2026-05-01",
+          "bounce_rate": 0.44775303574567316
+        }
+      ]
+    },
+    "traffic_sources_desktop": {
+      "meta": {
+        "request": {
+          "granularity": "Monthly",
+          "main_domain_only": false,
+          "mtd": false,
+          "show_verified": false,
+          "state": null,
+          "format": "json",
+          "domain": "openloophealth.com",
+          "start_date": "2025-12-01",
+          "end_date": "2026-05-31",
+          "country": "world"
+        },
+        "status": "Success",
+        "last_updated": "2026-05-31"
+      },
+      "visits": {
+        "openloophealth.com": [
+          {
+            "source_type": "Search",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 7883.123,
+                "paid": 4449.868
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 12962.440999999999,
+                "paid": 4188.485
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 10502.093,
+                "paid": 2086.8980000000006
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 14749.071000000002,
+                "paid": 2061.5190000000002
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 28159.021000000004,
+                "paid": 7683.447000000002
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 24150.030000000002,
+                "paid": 4898.311000000001
+              }
+            ]
+          },
+          {
+            "source_type": "Social",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 381.566,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 434.78299999999996,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 265.843,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 371.515,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 862.6929999999998,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 763.7510000000001,
+                "paid": 0.0
+              }
+            ]
+          },
+          {
+            "source_type": "Mail",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 28.43,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 33.793,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 24.087,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 33.18399999999999,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 78.12899999999999,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 70.662,
+                "paid": 0.0
+              }
+            ]
+          },
+          {
+            "source_type": "Display Ads",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 0.0,
+                "paid": 258.64500000000004
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 0.0,
+                "paid": 326.89700000000005
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 0.0,
+                "paid": 227.04199999999994
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 0.0,
+                "paid": 279.957
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 0.0,
+                "paid": 581.083
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 0.0,
+                "paid": 477.28500000000014
+              }
+            ]
+          },
+          {
+            "source_type": "Direct",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 18012.937,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 24715.193,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 17966.052,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 23917.528999999995,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 50412.111,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 41645.337,
+                "paid": 0.0
+              }
+            ]
+          },
+          {
+            "source_type": "Referrals",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 2892.3139999999994,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 3880.889,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 2831.5009999999993,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 3614.4079999999994,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 7550.707,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 5832.453999999999,
+                "paid": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "evolvetelemed.com": {
+    "domain": "evolvetelemed.com",
+    "visits": {
+      "meta": {
+        "request": {
+          "granularity": "Monthly",
+          "main_domain_only": false,
+          "mtd": false,
+          "show_verified": false,
+          "state": null,
+          "format": "json",
+          "domain": "evolvetelemed.com",
+          "start_date": "2025-12-01",
+          "end_date": "2026-05-31",
+          "country": "world"
+        },
+        "status": "Success",
+        "last_updated": "2026-05-31",
+        "device": "Total"
+      },
+      "visits": [
+        {
+          "date": "2025-12-01",
+          "visits": 22839.28436973284
+        },
+        {
+          "date": "2026-01-01",
+          "visits": 25729.687003812207
+        },
+        {
+          "date": "2026-02-01",
+          "visits": 14901.44654058892
+        },
+        {
+          "date": "2026-03-01",
+          "visits": 9059.109863266338
+        },
+        {
+          "date": "2026-04-01",
+          "visits": 13265.788391064318
+        },
+        {
+          "date": "2026-05-01",
+          "visits": 9744.81785972866
+        }
+      ]
+    },
+    "rank": {
+      "meta": {
+        "request": {
+          "main_domain_only": false,
+          "show_verified": false,
+          "state": null,
+          "format": "json",
+          "domain": "evolvetelemed.com",
+          "start_date": "2025-12-01",
+          "end_date": "2026-05-31",
+          "country": "world"
+        },
+        "status": "Success",
+        "last_updated": "2026-05-31"
+      },
+      "global_rank": [
+        {
+          "date": "2025-12",
+          "global_rank": 1238661
+        },
+        {
+          "date": "2026-01",
+          "global_rank": 822276
+        },
+        {
+          "date": "2026-02",
+          "global_rank": 1071063
+        },
+        {
+          "date": "2026-03",
+          "global_rank": 2354642
+        },
+        {
+          "date": "2026-04",
+          "global_rank": 1440243
+        },
+        {
+          "date": "2026-05",
+          "global_rank": 2113714
+        }
+      ]
+    },
+    "bounce_rate": {
+      "meta": {
+        "request": {
+          "granularity": "Monthly",
+          "main_domain_only": false,
+          "mtd": false,
+          "show_verified": false,
+          "state": null,
+          "format": "json",
+          "domain": "evolvetelemed.com",
+          "start_date": "2025-12-01",
+          "end_date": "2026-05-31",
+          "country": "world"
+        },
+        "status": "Success",
+        "last_updated": "2026-05-31"
+      },
+      "bounce_rate": [
+        {
+          "date": "2025-12-01",
+          "bounce_rate": 0.5403041441889284
+        },
+        {
+          "date": "2026-01-01",
+          "bounce_rate": 0.32005900288547373
+        },
+        {
+          "date": "2026-02-01",
+          "bounce_rate": 0.282399673804024
+        },
+        {
+          "date": "2026-03-01",
+          "bounce_rate": 0.4120722520335835
+        },
+        {
+          "date": "2026-04-01",
+          "bounce_rate": 0.49874170432722864
+        },
+        {
+          "date": "2026-05-01",
+          "bounce_rate": 0.47153445775110103
+        }
+      ]
+    },
+    "traffic_sources_desktop": {
+      "meta": {
+        "request": {
+          "granularity": "Monthly",
+          "main_domain_only": false,
+          "mtd": false,
+          "show_verified": false,
+          "state": null,
+          "format": "json",
+          "domain": "evolvetelemed.com",
+          "start_date": "2025-12-01",
+          "end_date": "2026-05-31",
+          "country": "world"
+        },
+        "status": "Success",
+        "last_updated": "2026-05-31"
+      },
+      "visits": {
+        "evolvetelemed.com": [
+          {
+            "source_type": "Search",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 2317.7090000000003,
+                "paid": 5.399000000000001
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 5599.107,
+                "paid": 5.597000000000001
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 3454.265000000001,
+                "paid": 1.15
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 1425.6619999999998,
+                "paid": 5.434000000000001
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 2986.545,
+                "paid": 8.437999999999999
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 1819.349,
+                "paid": 9.245999999999999
+              }
+            ]
+          },
+          {
+            "source_type": "Social",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 174.1990000000001,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 608.1629999999999,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 434.3290000000001,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 163.88600000000002,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 404.694,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 335.24299999999994,
+                "paid": 0.0
+              }
+            ]
+          },
+          {
+            "source_type": "Mail",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 4.498,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 9.483000000000002,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 5.493000000000001,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 3.294,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 6.885,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 4.893999999999999,
+                "paid": 0.0
+              }
+            ]
+          },
+          {
+            "source_type": "Display Ads",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 0.0,
+                "paid": 61.005999999999986
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 0.0,
+                "paid": 159.93399999999997
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 0.0,
+                "paid": 104.51500000000001
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 0.0,
+                "paid": 49.13899999999999
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 0.0,
+                "paid": 107.761
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 0.0,
+                "paid": 68.08600000000001
+              }
+            ]
+          },
+          {
+            "source_type": "Direct",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 2135.8840000000005,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 5636.846000000001,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 3767.799,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 1597.3509999999999,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 3866.5840000000003,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 2314.8510000000006,
+                "paid": 0.0
+              }
+            ]
+          },
+          {
+            "source_type": "Referrals",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 235.18499999999997,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 531.408,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 345.721,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 191.62599999999998,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 397.2339999999999,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 298.50199999999995,
+                "paid": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "swisschems.is": {
+    "domain": "swisschems.is",
+    "visits": {
+      "meta": {
+        "request": {
+          "granularity": "Monthly",
+          "main_domain_only": false,
+          "mtd": false,
+          "show_verified": false,
+          "state": null,
+          "format": "json",
+          "domain": "swisschems.is",
+          "start_date": "2025-12-01",
+          "end_date": "2026-05-31",
+          "country": "world"
+        },
+        "status": "Success",
+        "last_updated": "2026-05-31",
+        "device": "Total"
+      },
+      "visits": [
+        {
+          "date": "2025-12-01",
+          "visits": 335666.45291849534
+        },
+        {
+          "date": "2026-01-01",
+          "visits": 392667.3820763505
+        },
+        {
+          "date": "2026-02-01",
+          "visits": 325255.2842644234
+        },
+        {
+          "date": "2026-03-01",
+          "visits": 455458.91912336065
+        },
+        {
+          "date": "2026-04-01",
+          "visits": 371033.372925226
+        },
+        {
+          "date": "2026-05-01",
+          "visits": 298903.8771346936
+        }
+      ]
+    },
+    "rank": {
+      "meta": {
+        "request": {
+          "main_domain_only": false,
+          "show_verified": false,
+          "state": null,
+          "format": "json",
+          "domain": "swisschems.is",
+          "start_date": "2025-12-01",
+          "end_date": "2026-05-31",
+          "country": "world"
+        },
+        "status": "Success",
+        "last_updated": "2026-05-31"
+      },
+      "global_rank": [
+        {
+          "date": "2025-12",
+          "global_rank": 109860
+        },
+        {
+          "date": "2026-01",
+          "global_rank": 93109
+        },
+        {
+          "date": "2026-02",
+          "global_rank": 100070
+        },
+        {
+          "date": "2026-03",
+          "global_rank": 83418
+        },
+        {
+          "date": "2026-04",
+          "global_rank": 97158
+        },
+        {
+          "date": "2026-05",
+          "global_rank": 119726
+        }
+      ]
+    },
+    "bounce_rate": {
+      "meta": {
+        "request": {
+          "granularity": "Monthly",
+          "main_domain_only": false,
+          "mtd": false,
+          "show_verified": false,
+          "state": null,
+          "format": "json",
+          "domain": "swisschems.is",
+          "start_date": "2025-12-01",
+          "end_date": "2026-05-31",
+          "country": "world"
+        },
+        "status": "Success",
+        "last_updated": "2026-05-31"
+      },
+      "bounce_rate": [
+        {
+          "date": "2025-12-01",
+          "bounce_rate": 0.37697817343978235
+        },
+        {
+          "date": "2026-01-01",
+          "bounce_rate": 0.36597732444896686
+        },
+        {
+          "date": "2026-02-01",
+          "bounce_rate": 0.3512326316866925
+        },
+        {
+          "date": "2026-03-01",
+          "bounce_rate": 0.37731935006311
+        },
+        {
+          "date": "2026-04-01",
+          "bounce_rate": 0.36979233474297923
+        },
+        {
+          "date": "2026-05-01",
+          "bounce_rate": 0.3855157863069634
+        }
+      ]
+    },
+    "traffic_sources_desktop": {
+      "meta": {
+        "request": {
+          "granularity": "Monthly",
+          "main_domain_only": false,
+          "mtd": false,
+          "show_verified": false,
+          "state": null,
+          "format": "json",
+          "domain": "swisschems.is",
+          "start_date": "2025-12-01",
+          "end_date": "2026-05-31",
+          "country": "world"
+        },
+        "status": "Success",
+        "last_updated": "2026-05-31"
+      },
+      "visits": {
+        "swisschems.is": [
+          {
+            "source_type": "Search",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 61315.75000000001,
+                "paid": 8.398000000000001
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 59703.816,
+                "paid": 11.171999999999999
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 52902.322000000015,
+                "paid": 16.012
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 74189.72800000002,
+                "paid": 13.392
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 52461.701,
+                "paid": 18.352999999999998
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 46394.03,
+                "paid": 31.044999999999995
+              }
+            ]
+          },
+          {
+            "source_type": "Social",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 3115.526,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 3191.862,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 3099.388000000001,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 5352.946999999999,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 4360.366,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 4499.665,
+                "paid": 0.0
+              }
+            ]
+          },
+          {
+            "source_type": "Mail",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 115.78099999999998,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 126.999,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 115.34399999999998,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 146.79299999999998,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 122.072,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 98.235,
+                "paid": 0.0
+              }
+            ]
+          },
+          {
+            "source_type": "Display Ads",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 0.0,
+                "paid": 534.7389999999998
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 0.0,
+                "paid": 600.708
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 0.0,
+                "paid": 594.629
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 0.0,
+                "paid": 739.7220000000001
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 0.0,
+                "paid": 560.5330000000001
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 0.0,
+                "paid": 514.7740000000001
+              }
+            ]
+          },
+          {
+            "source_type": "Direct",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 77631.231,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 77899.37099999997,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 69405.518,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 107362.965,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 78044.20400000001,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 69596.961,
+                "paid": 0.0
+              }
+            ]
+          },
+          {
+            "source_type": "Referrals",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 9642.461000000001,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 9586.659000000001,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 8404.654999999999,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 11755.855,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 8205.157,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 7750.934,
+                "paid": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "paradigmpeptides.com": {
+    "domain": "paradigmpeptides.com",
+    "visits": {
+      "meta": {
+        "request": {
+          "granularity": "Monthly",
+          "main_domain_only": false,
+          "mtd": false,
+          "show_verified": false,
+          "state": null,
+          "format": "json",
+          "domain": "paradigmpeptides.com",
+          "start_date": "2025-12-01",
+          "end_date": "2026-05-31",
+          "country": "world"
+        },
+        "status": "Success",
+        "last_updated": "2026-05-31",
+        "device": "Total"
+      },
+      "visits": [
+        {
+          "date": "2025-12-01",
+          "visits": 11458.958795734867
+        },
+        {
+          "date": "2026-01-01",
+          "visits": 8364.73231363727
+        },
+        {
+          "date": "2026-02-01",
+          "visits": 4441.685190888888
+        },
+        {
+          "date": "2026-03-01",
+          "visits": 4118.3448085792115
+        },
+        {
+          "date": "2026-04-01",
+          "visits": 4892.917312315335
+        },
+        {
+          "date": "2026-05-01",
+          "visits": 3097.2138193724513
+        }
+      ]
+    },
+    "rank": {
+      "meta": {
+        "request": {
+          "main_domain_only": false,
+          "show_verified": false,
+          "state": null,
+          "format": "json",
+          "domain": "paradigmpeptides.com",
+          "start_date": "2025-12-01",
+          "end_date": "2026-05-31",
+          "country": "world"
+        },
+        "status": "Success",
+        "last_updated": "2026-05-31"
+      },
+      "global_rank": [
+        {
+          "date": "2025-12",
+          "global_rank": 1835680
+        },
+        {
+          "date": "2026-01",
+          "global_rank": 2507377
+        },
+        {
+          "date": "2026-02",
+          "global_rank": 3530231
+        },
+        {
+          "date": "2026-03",
+          "global_rank": 4649005
+        },
+        {
+          "date": "2026-04",
+          "global_rank": 4368454
+        },
+        {
+          "date": "2026-05",
+          "global_rank": 5873457
+        }
+      ]
+    },
+    "bounce_rate": {
+      "meta": {
+        "request": {
+          "granularity": "Monthly",
+          "main_domain_only": false,
+          "mtd": false,
+          "show_verified": false,
+          "state": null,
+          "format": "json",
+          "domain": "paradigmpeptides.com",
+          "start_date": "2025-12-01",
+          "end_date": "2026-05-31",
+          "country": "world"
+        },
+        "status": "Success",
+        "last_updated": "2026-05-31"
+      },
+      "bounce_rate": [
+        {
+          "date": "2025-12-01",
+          "bounce_rate": 0.4610413222696195
+        },
+        {
+          "date": "2026-01-01",
+          "bounce_rate": 0.4568007371718887
+        },
+        {
+          "date": "2026-02-01",
+          "bounce_rate": 0.3852816976778524
+        },
+        {
+          "date": "2026-03-01",
+          "bounce_rate": 0.6494695807645923
+        },
+        {
+          "date": "2026-04-01",
+          "bounce_rate": 0.8830932771219706
+        },
+        {
+          "date": "2026-05-01",
+          "bounce_rate": 0.7461063178205396
+        }
+      ]
+    },
+    "traffic_sources_desktop": {
+      "meta": {
+        "request": {
+          "granularity": "Monthly",
+          "main_domain_only": false,
+          "mtd": false,
+          "show_verified": false,
+          "state": null,
+          "format": "json",
+          "domain": "paradigmpeptides.com",
+          "start_date": "2025-12-01",
+          "end_date": "2026-05-31",
+          "country": "world"
+        },
+        "status": "Success",
+        "last_updated": "2026-05-31"
+      },
+      "visits": {
+        "paradigmpeptides.com": [
+          {
+            "source_type": "Search",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 2307.613,
+                "paid": 0.096
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 1616.2450000000001,
+                "paid": 0.159
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 470.092,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 622.36,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 403.106,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 222.898,
+                "paid": 0.0
+              }
+            ]
+          },
+          {
+            "source_type": "Social",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 92.45700000000002,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 63.14699999999999,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 40.66,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 61.224000000000004,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 62.593999999999994,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 41.296,
+                "paid": 0.0
+              }
+            ]
+          },
+          {
+            "source_type": "Mail",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 3.09,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 2.169,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 0.5890000000000001,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 0.7420000000000002,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 0.5150000000000001,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 0.30100000000000005,
+                "paid": 0.0
+              }
+            ]
+          },
+          {
+            "source_type": "Display Ads",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 0.0,
+                "paid": 52.55
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 0.0,
+                "paid": 36.927
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 0.0,
+                "paid": 12.553
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 0.0,
+                "paid": 15.155
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 0.0,
+                "paid": 11.235000000000001
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 0.0,
+                "paid": 6.7780000000000005
+              }
+            ]
+          },
+          {
+            "source_type": "Direct",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 1604.8000000000002,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 1099.1219999999998,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 405.80999999999995,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 480.2640000000002,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 418.2419999999999,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 268.933,
+                "paid": 0.0
+              }
+            ]
+          },
+          {
+            "source_type": "Referrals",
+            "visits": [
+              {
+                "date": "2025-12-01",
+                "organic": 186.43300000000002,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-01-01",
+                "organic": 129.47400000000002,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-02-01",
+                "organic": 46.47200000000001,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-03-01",
+                "organic": 61.22399999999998,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-04-01",
+                "organic": 46.236,
+                "paid": 0.0
+              },
+              {
+                "date": "2026-05-01",
+                "organic": 27.813,
+                "paid": 0.0
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
